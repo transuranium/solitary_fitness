@@ -8,7 +8,7 @@ Hoy trabajamos empuje (pecho, hombros y tríceps), cardio y capacidad pulmonar, 
 Prioriza la técnica, respira con control y acumula consistencia: incluso una sesión corta suma cuando la repites día tras día.
 
 Antes de empezar: haz el calentamiento (ver página/guía) y repasa la respiración (ver página/guía) . (No lo saltes.)
-Respiración rápida: en isometría usa 3-6-3 (3 entrar, 6 sostener exhalando, 3 salir). Detalles en la guía de Respiración.
+Respiración rápida: en isometría usa 3, 6, 3 (3 entrar, 6 sostener exhalando, 3 salir). Detalles en la guía de Respiración.
 
 1. Flexiones profundas y lentas
 Realiza 10 flexiones con las manos elevadas sobre dos kettlebells o pilas de libros. Baja en 4 segundos y sube en 1 segundo. Si es muy difícil, haz flexiones normales o con las rodillas apoyadas, manteniendo el cuerpo en línea recta.

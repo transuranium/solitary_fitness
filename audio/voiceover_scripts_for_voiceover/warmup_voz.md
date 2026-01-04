@@ -64,33 +64,87 @@ Listo. Ahora empieza la rutina principal.
 
 ## RU — Подсказка
 
-Разминка (коротко)
+**Разминка**
 
-Сделай перед каждой тренировкой. Двигайся мягко, без боли. Дыши обычно.
+Делай эту разминку перед каждой тренировкой. Двигайся мягко, без боли. Дыши обычно.
 
-1. Carrera el lugar: Corre el lugar levantando ligeramente las колени y moviendo los brazos. Держи el ritmo suave activar todo el cuerpo.
-2. Прыжки estrella: Выполни прыжки abriendo brazos y piernas como una estrella. Держи un ritmo constante activar плечи, piernas y дыхание.
-3. Inclinaciones cabeza adelante и atrás: Inclina la cabeza hacia adelante y luego hacia atrás suavemente. Calienta el cuello forzar el movimiento.
-4. Giros cabeza izquierda-derecha: Gira la cabeza un lado al otro, manteniendo los плечи relajados.
-5. Inclinaciones laterales cabeza: Inclina la cabeza hacia cada hombro estirando suavemente los laterales cuello.
-6. Retracción и extensión cuello: Lleva la cabeza hacia atrás (papada) y luego hacia adelante. Un ejercicio excelente la movilidad cervical.
-7. Apertura и cierre puños brazos extendidos: Extiende los brazos a los lados y abre/cierra los puños. Activa antebrazos y плечи.
-8. Rotación puños adelante и atrás: Gira los puños hacia adelante y hacia atrás los brazos extendidos.
-9. Rotación предплечьеs hacia dentro и fuera: Rota los antebrazos hacia el interior y el exterior manteniendo los codos a la altura cuerpo.
-10. Rotación hombros adelante и atrás: Сделай círculos amplios los плечи hacia adelante y hacia atrás.
-11. Rotación hombros brazos arriba: Levanta los brazos y rota los плечи ambas direcciones.
-12. Rotaciones brazos doblados: Dobla los brazos y realiza rotaciones los плечи manteniendo el грудь abierto.
-13. Rotación amplia hombros: Выполни círculos muy amplios los плечи, aumentando la movilidad.
-14. Rotación tipo “tren” brazos semi-flexionados: brazos semi-flexionados, mueve los плечи hacia adelante y atrás como un “vagón”.
-15. Retracción и protracción hombros: Mueve los плечи hacia adelante (protracción) y hacia atrás (retracción).
-16. Подъём и descenso hombros: Sube y baja los плечи manteniendo el cuello relajado.
-17. Movimiento lateral предплечьеs: Mueve los antebrazos hacia adentro y hacia afuera a la altura ombligo.
-18. “Mono” – inclinaciones laterales: Inclina el корпус hacia cada lado, llevando una mano hacia atrás como si imitaras un movimiento mono.
-19. Balanceo cruzado brazos: Balancea los brazos diferentes direcciones giro suave корпус.
-20. Movimientos boxeo el torso: Mueve el корпус hacia los lados simulando esquivar golpes, manteniendo las manos arriba.
-21. Отжимания al suelo extensión posterior: Inclínate hacia el suelo, luego baja posición rana, mira hacia arriba y vuelve al inicio.
-22. Подъём lateral pierna la rodilla flexionada: Eleva una pierna la rodilla doblada hacia un lado y luego vuelve al centro. Cambia pierna después varias повторений. Держи el пресс activado y el cuerpo firme no perder equilibrio.
-23. Растяжка hacia los pies и posición rana: Inclínate hacia los pies, baja a posición rana, mira hacia arriba y vuelve a levantar la cadera.
-24. Flexión, Растяжка atrás и extensión adelante: Primero lleva una rodilla hacia el грудь. Luego estira la misma pierna hacia atrás sujetando el empeine. Después eleva la pierna extendida hacia adelante y acércate al pie.
-25. Растяжка pierna hacia atrás: Adelanta el cuerpo apoyando las manos y estira una pierna hacia atrás manteniendo el talón pegado al suelo. Cambia pierna.
-26. Sacudir brazos и piernas: Sacude piernas y brazos libremente relajar el cuerpo antes comenzar la rutina principal.
+1. **Бег на месте**
+   Беги на месте, слегка поднимая колени и двигая руками. Держи лёгкий темп, чтобы активировать всё тело.
+
+2. **Прыжки «звёздочка»**
+   Делай прыжки, раскрывая руки и ноги как звезда. Держи ровный ритм, чтобы включить плечи, ноги и дыхание.
+
+3. **Наклоны головы вперёд и назад**
+   Мягко наклони голову вперёд, затем назад. Разогревай шею без усилия и без форсирования движения.
+
+4. **Повороты головы влево–вправо**
+   Поворачивай голову из стороны в сторону, держа плечи расслабленными.
+
+5. **Боковые наклоны головы**
+   Наклоняй голову к каждому плечу, мягко растягивая боковые поверхности шеи.
+
+6. **Втягивание и вытягивание шеи**
+   Уведи голову назад (сделай «двойной подбородок»), затем вперёд. Отличное упражнение для подвижности шеи.
+
+7. **Сжимание и разжимание кулаков с вытянутыми руками**
+   Разведи руки в стороны и сжимай/разжимай кулаки. Активирует предплечья и плечи.
+
+8. **Вращение кистей вперёд и назад**
+   Вращай кисти вперёд и назад с вытянутыми руками.
+
+9. **Вращение предплечий внутрь и наружу**
+   Поворачивай предплечья внутрь и наружу, удерживая локти на уровне корпуса.
+
+10. **Круги плечами вперёд и назад**
+    Делай большие круги плечами вперёд и назад.
+
+11. **Круги плечами с руками вверх**
+    Подними руки и вращай плечами в обе стороны.
+
+12. **Вращения с согнутыми руками**
+    Согни руки и выполняй вращения плечами, сохраняя грудь раскрытой.
+
+13. **Широкие вращения плечами**
+    Делай очень широкие круги плечами, увеличивая подвижность.
+
+14. **Вращение «как поезд» с полусогнутыми руками**
+    С полусогнутыми руками двигай плечами вперёд и назад, как «вагончик».
+
+15. **Сведение и разведение плеч**
+    Выводи плечи вперёд (протракция) и уводи назад (ретракция).
+
+16. **Подъём и опускание плеч**
+    Поднимай и опускай плечи, держа шею расслабленной.
+
+17. **Боковое движение предплечий**
+    Двигай предплечья внутрь и наружу на уровне пупка.
+
+18. **«Обезьянка» — боковые наклоны**
+    Наклоняй корпус в стороны, уводя одну руку назад, как будто повторяешь движение обезьяны.
+
+19. **Перекрёстные махи руками**
+    Размахивай руками в разные стороны с мягким поворотом корпуса.
+
+20. **Боксёрские движения корпусом**
+    Двигай корпус в стороны, имитируя уклоны от ударов, держи руки поднятыми.
+
+21. **Наклон к полу с прогибом назад**
+    Наклонись к полу, затем опустись в «позу лягушки», посмотри вверх и вернись в исходное положение.
+
+22. **Боковой подъём ноги с согнутым коленом**
+    Подними ногу в сторону с согнутым коленом и верни в центр. Через несколько повторений поменяй ногу. Держи пресс включённым и корпус устойчивым, чтобы не терять равновесие.
+
+23. **Растяжка к стопам и «поза лягушки»**
+    Наклонись к стопам, опустись в «позу лягушки», посмотри вверх и снова подними таз.
+
+24. **Сгибание, растяжка назад и вытяжение вперёд**
+    Сначала подтяни колено к груди. Затем вытяни ту же ногу назад, удерживая её за подъём стопы. После этого подними выпрямленную ногу вперёд и приблизься к стопе.
+
+25. **Растяжка ноги назад**
+    Подай корпус вперёд, упираясь руками, и вытяни одну ногу назад, сохраняя пятку прижатой к полу. Поменяй ногу.
+
+26. **Потряхивание рук и ног**
+    Свободно потряси руками и ногами, чтобы расслабить тело перед основной частью тренировки.
+
+Готово. Теперь начинай основную тренировку.
+
