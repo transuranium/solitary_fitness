@@ -2,73 +2,102 @@
 
 ## ES — Guion de voz
 
-Día 20: cuello y postura + isometría y control (sin equipo)
+Día veinte. Cuello y postura. Isometría y control. Sin equipo.
 
 Hoy trabajamos cuello y postura, isometría y control, movilidad y estiramiento con ejercicios simples que caben en una habitación. El objetivo es construir fuerza útil, resistencia y control corporal con el mínimo de equipo.
-Prioriza la técnica, respira con control y acumula consistencia: incluso una sesión corta suma cuando la repites día tras día.
+Prioriza la técnica, respira con control y acumula consistencia. Incluso una sesión corta suma cuando la repites día tras día.
 
-Antes de empezar: haz el calentamiento (ver página/guía) y repasa la respiración (ver página/guía) . (No lo saltes.)
-Respiración rápida: en isometría usa 3-6-3 (3 entrar, 6 sostener exhalando, 3 salir). Detalles en la guía de Respiración.
+Antes de empezar, haz el calentamiento y repasa la respiración. No lo saltes.
+Respiración rápida. En isometría usa el patrón tres, seis, tres. Tres segundos para entrar en la tensión. Seis segundos para sostener mientras exhalas. Tres segundos para salir. Detalles en la guía de respiración.
 
-1. Flexión y extensión del cuello (10 repeticiones)
-De pie, manos en la cintura. Inclina la cabeza hacia adelante llevando la barbilla al pecho. Vuelve al centro y luego mira hacia arriba, extendiendo el cuello sin tirones. El torso se mantiene estable. Стоя, руки на поясе. Наклони голову вперёд, прижимая подбородок к груди. Вернись в центр и затем мягко отведи голову назад, глядя вверх, без рывков. Корпус неподвижен.
+Ejercicio uno. Flexión y extensión del cuello. Diez repeticiones.
+De pie, con las manos en la cintura. Inclina la cabeza hacia adelante llevando la barbilla al pecho. Vuelve al centro. Luego mira hacia arriba y extiende el cuello sin tirones. El torso se mantiene estable.
 
-2. Giros del cuello (10 repeticiones)
-Desde la posición neutra, gira la cabeza a la izquierda como si quisieras mirar por encima del hombro. Vuelve al centro y gira a la derecha. Mantén los hombros bajos, sin inclinar la cabeza. Ejecución: 10 repeticiones (5 por cada lado). Из нейтрального положения поверни голову влево, будто хочешь посмотреть через плечо. Вернись в центр и поверни вправо. Плечи держи опущенными, голову не наклоняй. Выполнение: 10 повторений (по 5 в каждую сторону).
+Ejercicio dos. Giros del cuello. Diez repeticiones, cinco por cada lado.
+Desde la posición neutra, gira la cabeza a la izquierda como si quisieras mirar por encima del hombro. Vuelve al centro y gira a la derecha. Mantén los hombros bajos y no inclines la cabeza.
 
-3. Inclinación lateral del cuello (10 repeticiones)
-Inclina la cabeza llevando la oreja hacia el hombro sin elevar el hombro. Vuelve al centro y repite al otro lado. No gires la cabeza: solo inclinación lateral. Ejecución: 10 repeticiones (5 por cada lado). Наклони голову, приближая ухо к плечу (плечо не поднимай). Вернись в центр и повтори в другую сторону. Голову не поворачивай — только боковой наклон. Выполнение: 10 повторений (по 5 в каждую сторону).
+Ejercicio tres. Inclinación lateral del cuello. Diez repeticiones, cinco por cada lado.
+Inclina la cabeza llevando la oreja hacia el hombro sin elevar el hombro. Vuelve al centro y repite al otro lado. No gires la cabeza, solo inclinación lateral.
 
-4. Rotación circular del cuello (10 rotaciones)
-Haz círculos lentos y controlados con la cabeza. No “lances” la cabeza hacia atrás: controla todo el recorrido y reduce la amplitud si hay molestia. Ejecución: 10 rotaciones (5 en cada dirección). Делай медленные круговые вращения головой. Не «забрасывай» голову назад — контролируй всю траекторию и уменьши амплитуду, если появляется дискомфорт. Выполнение: 10 вращений (5 в каждую сторону).
+Ejercicio cuatro. Rotación circular del cuello. Diez rotaciones, cinco en cada dirección.
+Haz círculos lentos y controlados con la cabeza. No lances la cabeza hacia atrás. Controla todo el recorrido y reduce la amplitud si hay molestia.
 
-5. Encogimientos de hombros (10 repeticiones)
-Eleva ambos hombros hacia las orejas creando una contracción fuerte en los trapecios. Luego baja los hombros de forma consciente, dejándolos lejos de las orejas. Подними оба плеча к ушам, создавая сильное напряжение в трапециях. Затем осознанно опусти плечи вниз, убирая их подальше от ушей.
+Ejercicio cinco. Encogimientos de hombros. Diez repeticiones.
+Eleva ambos hombros hacia las orejas creando una contracción fuerte en los trapecios. Luego baja los hombros de forma consciente, dejándolos lejos de las orejas.
 
-6. Rotación de brazos con amplitud creciente (2 direcciones)
-Brazos extendidos a los lados. Haz círculos muy pequeños y ve aumentando la amplitud poco a poco hasta círculos grandes, sin perder el control. Mantén el torso firme y los hombros lejos de las orejas. Luego repite en la dirección contraria. Ejecución: 10 círculos por dirección. Руки в стороны. Начни вращения с маленькой амплитуды и постепенно увеличивай до больших кругов, сохраняя контроль. Корпус стабильный, плечи не поднимать к ушам. Затем повтори в обратную сторону. Выполнение: по 10 кругов в каждую сторону.
+Ejercicio seis. Rotación de brazos con amplitud creciente. Dos direcciones.
+Con los brazos extendidos a los lados, haz círculos muy pequeños y ve aumentando la amplitud poco a poco hasta llegar a círculos grandes, sin perder el control. Mantén el torso firme y los hombros lejos de las orejas. Luego repite en la dirección contraria. Haz diez círculos por dirección.
 
-7. Estiramiento hacia arriba (1×10)
-De pie, pies al ancho de hombros. Lleva los brazos arriba y estírate hacia el techo alargando todo el cuerpo. Puedes elevarte ligeramente a las puntas. No arquees la zona lumbar: abdomen firme y control. Ejecución: 1 serie de 10 repeticiones. Стоя, ноги на ширине плеч. Подними руки вверх и тянись к потолку, вытягивая всё тело. Можно слегка подниматься на носки. Поясницу не ломай: живот в тонусе, контроль. Выполнение: 1 подход × 10 повторений.
+Ejercicio siete. Estiramiento hacia arriba. Una serie de diez repeticiones.
+De pie, con los pies al ancho de los hombros. Lleva los brazos arriba y estírate hacia el techo alargando todo el cuerpo. Puedes elevarte ligeramente a las puntas. No arquees la zona lumbar. Mantén el abdomen firme y el control.
 
-8. Inclinaciones laterales del torso (5 por lado)
-De pie, manos en la cintura. Inclina el torso hacia un lado sin girar hacia adelante ni hacia atrás. La pelvis se mantiene estable. Vuelve al centro y repite al otro lado. Ejecución: 5 repeticiones por lado. Стоя, руки на поясе. Наклони корпус в сторону без разворота вперёд или назад. Таз стабильный. Вернись в центр и повтори на другую сторону. Выполнение: по 5 повторений на сторону.
+Ejercicio ocho. Inclinaciones laterales del torso. Cinco repeticiones por lado.
+De pie, con las manos en la cintura. Inclina el torso hacia un lado sin girar hacia adelante ni hacia atrás. La pelvis se mantiene estable. Vuelve al centro y repite al otro lado.
 
-9. Tocar el suelo con las manos (2×10)
-De pie, pies al ancho de hombros. Mantén las piernas lo más rectas posible (sin dolor) y lleva la cadera bien hacia atrás. Inclina el torso hacia abajo y estira las manos hacia el suelo hasta tocarlo o acercarte al máximo. Sin rebotes: baja y sube controlado. Ejecución: 2 series de 10 repeticiones. Стоя, ноги на ширине плеч. Держи ноги максимально прямыми (без боли) и уводи таз назад. Наклоняйся вниз и тянись руками к полу — коснись пола или подойди максимально близко. Без пружинок: вниз-вверх подконтрольно. Выполнение: 2 подхода по 10 повторений.
+Ejercicio nueve. Tocar el suelo con las manos. Dos series de diez repeticiones.
+De pie, con los pies al ancho de los hombros. Mantén las piernas lo más rectas posible sin dolor y lleva la cadera bien hacia atrás. Inclina el torso hacia abajo y estira las manos hacia el suelo hasta tocarlo o acercarte al máximo. Sin rebotes. Baja y sube con control.
 
-10. Cobra (10 repeticiones)
-Túmbate boca abajo. Coloca las palmas debajo de los hombros. Empuja el suelo y eleva el pecho como en la postura de cobra, manteniendo la pelvis y los muslos en el suelo. Hombros lejos de las orejas, cuello largo. Baja con control. Ejecución: 10 repeticiones. Ляг на живот. Ладони под плечами. Упрись в пол и подними грудь как в “кобре”, таз и бёдра остаются на полу. Плечи опусти от ушей, шея длинная. Опускайся подконтрольно. Выполнение: 10 повторений.
+Ejercicio diez. Cobra. Diez repeticiones.
+Túmbate boca abajo. Coloca las palmas debajo de los hombros. Empuja el suelo y eleva el pecho como en la postura de cobra, manteniendo la pelvis y los muslos en el suelo. Hombros lejos de las orejas y cuello largo. Baja con control.
 
-11. Estiramiento hacia la pierna elevada
-Coloca una pierna recta sobre un apoyo estable. Mantén la espalda lo más recta posible. Si tienes una toalla/cinta, pásala por el pie y tira suavemente hacia ti para acercar el torso a la pierna, sin dolor y sin redondear demasiado la espalda. Cambia de pierna. Поставь прямую ногу на устойчивую опору. Спину держи максимально ровно. Если есть полотенце/ремень — накинь на стопу и мягко подтягивай к себе, приближая корпус к ноге без боли и без сильного округления спины. Затем поменяй ногу.
+Ejercicio once. Estiramiento hacia la pierna elevada.
+Coloca una pierna recta sobre un apoyo estable. Mantén la espalda lo más recta posible. Si tienes una toalla o una cinta, pásala por el pie y tira suavemente hacia ti para acercar el torso a la pierna, sin dolor y sin redondear demasiado la espalda. Mantén unos segundos y cambia de pierna.
 
-12. Isometría de isquiotibiales (10 s × 10 por pierna, 2 series)
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Serie 1 (de pie): Levanta una rodilla y fija la postura. Crea tensión en la parte posterior del muslo (isquiotibiales) sin movimiento visible. Alterna piernas. Serie 2 (acostado): Túmbate boca arriba. Una pierna estirada en el suelo y la otra flexionada para estabilizar. Con la pierna estirada “clava” el talón en el suelo e intenta arrastrarlo hacia ti (como si quisieras doblar la rodilla), pero sin que se deslice: así se crea la isometría en isquiotibiales. Alterna piernas. Ejecución: 10 segundos × 10 repeticiones por pierna, en cada serie. Подход 1 (стоя): Подними колено и зафиксируй корпус. Создай напряжение в задней поверхности бедра (бицепс бедра) без видимого движения. Держи 10 секунд. Чередуй ноги. Подход 2 (лёжа): Ляг на спину. Одна нога прямая на полу, другая согнута для стабилизации. Прямой ногой “вдави” пятку в пол и попробуй потянуть пятку на себя (как будто хочешь согнуть колено), но без скольжения — так создаётся изометрия бицепса бедра. Держи 10 секунд. Чередуй ноги. Выполнение: 10 секунд × 10 повторений на каждую ногу, в каждом подходе.
+Ejercicio doce. Isometría de isquiotibiales. Dos series.
+En cada serie, haz diez segundos por diez repeticiones por pierna.
+Serie uno, de pie. Levanta una rodilla y fija la postura. Crea tensión en la parte posterior del muslo sin movimiento visible. Mantén diez segundos y cambia de pierna.
+Serie dos, acostado. Túmbate boca arriba. Una pierna estirada en el suelo y la otra flexionada para estabilizar. Con la pierna estirada, clava el talón en el suelo e intenta arrastrarlo hacia ti como si quisieras doblar la rodilla, pero sin que se deslice. Así se crea la isometría en los isquiotibiales. Mantén diez segundos y cambia de pierna.
 
-Cierre: buen trabajo. Técnica primero, respira con control y mantén la consistencia.
+Cierre. Buen trabajo. Técnica primero. Respira con control y mantén la consistencia.
+
 
 
 ## RU — Подсказка
 
-День 20: cuello и postura + изометрия и контроль (без оборудования)
+День двадцать. Шея и осанка. Изометрия и контроль. Без оборудования.
 
-Коротко: техника + контроль дыхания + регулярность. Тренировка без лишнего оборудования.
+Сегодня мы тренируем шею и осанку, изометрию и контроль, подвижность и растяжку. Упражнения простые и помещаются в комнате. Цель — развивать полезную силу, выносливость и контроль тела с минимумом оборудования.
+Ставь технику на первое место, дыши под контролем и накапливай стабильность. Даже короткая тренировка даёт результат, если повторять её изо дня в день.
 
-Перед началом: разминка + дыхание 3–6–3 (3 вход, 6 удержание с выдохом, 3 выход).
+Перед началом сделай разминку и повтори дыхание. Не пропускай.
+Быстрое дыхание. В изометрии используй схему три, шесть, три. Три секунды вход в напряжение. Шесть секунд удержание с выдохом. Три секунды выход. Подробности — в руководстве по дыханию.
 
-1. Flexión и extensión cuello (10 repeticiones)
-2. Giros cuello (10 repeticiones) — 10 повторов
-3. Inclinación lateral cuello (10 repeticiones) — 10 повторов
-4. Rotación circular cuello (10 rotaciones)
-5. Encogimientos hombros (10 repeticiones)
-6. Rotación brazos amplitud creciente (2 direcciones)
-7. Растяжка hacia arriba (1×10) — 10 повторов, пресс напряжён
-8. Inclinaciones laterales torso (5 por lado) — 5 повторов
-9. Tocar el suelo las manos (2×10) — 10 повторов
-10. Cobra (10 repeticiones) — 10 повторов, опускайся под контролем
-11. Растяжка hacia la pierna elevada
-12. Isometría isquiotibiales (10 s × 10 por pierna, 2 series) — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
+Упражнение первое. Сгибание и разгибание шеи. Десять повторений.
+Встань прямо, руки на поясе. Наклони голову вперёд и прижми подбородок к груди. Вернись в центр. Затем мягко отведи голову назад и посмотри вверх, без рывков. Корпус остаётся неподвижным.
 
-Финал: восстановись, вода/сон, и продолжай по плану.
+Упражнение второе. Повороты шеи. Десять повторений, по пять в каждую сторону.
+Из нейтрального положения поверни голову влево, как будто хочешь посмотреть через плечо. Вернись в центр и поверни вправо. Плечи держи опущенными, голову не наклоняй.
+
+Упражнение третье. Боковые наклоны шеи. Десять повторений, по пять в каждую сторону.
+Наклони голову так, чтобы ухо приближалось к плечу, но плечо не поднимай. Вернись в центр и повтори в другую сторону. Голову не поворачивай, только боковой наклон.
+
+Упражнение четвёртое. Круговые вращения шеи. Десять вращений, по пять в каждую сторону.
+Делай медленные и контролируемые круги головой. Не забрасывай голову назад. Контролируй всю траекторию и уменьшай амплитуду, если появляется дискомфорт.
+
+Упражнение пятое. Подъём и опускание плеч. Десять повторений.
+Подними оба плеча к ушам, создай сильное напряжение в трапециях. Затем осознанно опусти плечи и отведи их подальше от ушей.
+
+Упражнение шестое. Вращение рук с постепенным увеличением амплитуды. Два направления.
+Выпрями руки в стороны. Начни круги с маленькой амплитуды и постепенно увеличивай до больших кругов, не теряя контроль. Корпус держи устойчиво, плечи не поднимай к ушам. Затем повтори в обратную сторону. Сделай по десять кругов в каждую сторону.
+
+Упражнение седьмое. Вытяжение вверх. Один подход, десять повторений.
+Встань, ноги на ширине плеч. Подними руки вверх и тянись к потолку, вытягивая всё тело. Можно слегка подниматься на носки. Поясницу не прогибай. Держи живот в тонусе и сохраняй контроль.
+
+Упражнение восьмое. Боковые наклоны корпуса. По пять повторений на каждую сторону.
+Встань, руки на поясе. Наклони корпус в сторону, не разворачиваясь ни вперёд, ни назад. Таз держи стабильно. Вернись в центр и повтори в другую сторону.
+
+Упражнение девятое. Наклоны вниз с касанием пола руками. Два подхода, по десять повторений.
+Встань, ноги на ширине плеч. Держи ноги максимально прямыми без боли и уводи таз назад. Наклоняйся вниз и тянись руками к полу, коснись пола или подойди максимально близко. Без пружинящих движений. Опускайся и поднимайся подконтрольно.
+
+Упражнение десятое. Кобра. Десять повторений.
+Ляг на живот. Поставь ладони под плечи. Упрись в пол и подними грудь, как в позе кобры, при этом таз и бёдра остаются на полу. Плечи держи подальше от ушей, шею вытягивай. Опускайся подконтрольно.
+
+Упражнение одиннадцатое. Растяжка на поднятой ноге.
+Поставь прямую ногу на устойчивую опору. Спину держи максимально ровно. Если есть полотенце или ремень, накинь на стопу и мягко подтягивай к себе, приближая корпус к ноге без боли и без сильного округления спины. Подержи несколько секунд и поменяй ногу.
+
+Упражнение двенадцатое. Изометрия задней поверхности бедра. Два подхода.
+В каждом подходе выполняй десять секунд по десять повторений на каждую ногу.
+Подход первый, стоя. Подними колено и зафиксируй корпус. Создай напряжение в задней поверхности бедра без видимого движения. Держи десять секунд и поменяй ногу.
+Подход второй, лёжа. Ляг на спину. Одна нога прямая на полу, другая согнута для стабилизации. Прямой ногой вдави пятку в пол и попробуй потянуть пятку на себя, как будто хочешь согнуть колено, но без скольжения. Так создаётся изометрия задней поверхности бедра. Держи десять секунд и поменяй ногу.
+
+Завершение. Хорошая работа. Техника прежде всего. Дыши под контролем и сохраняй стабильность.

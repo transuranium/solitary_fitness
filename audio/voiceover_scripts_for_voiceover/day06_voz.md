@@ -8,7 +8,7 @@ Hoy trabajamos isometría y control, core (abdomen y zona media), cardio y capac
 Prioriza la técnica, respira con control y acumula consistencia: incluso una sesión corta suma cuando la repites día tras día.
 
 Antes de empezar: haz el calentamiento (ver página/guía) y repasa la respiración (ver página/guía) . (No lo saltes.)
-Respiración rápida: en isometría usa 3-6-3 (3 entrar, 6 sostener exhalando, 3 salir). Detalles en la guía de Respiración.
+Respiración rápida: en isometría usa 3, 6, 3 (3 entrar, 6 sostener exhalando, 3 salir). Detalles en la guía de Respiración.
 
 1. Colgamientos parciales con apoyo en las puntas de los pies
 Cuelga de una barra o cualquier soporte sólido que no pueda romperse. No cuelgues todo tu peso: deja una parte del peso sobre las puntas de los pies para mantener un estiramiento seguro y controlado. Relaja los hombros y permite que la columna se alargue de forma natural; si es posible, inclina ligeramente la pelvis hacia adelante para mejorar la descompresión de la espalda. Mantén la posición durante 10 segundos y repite 10 veces.
@@ -23,7 +23,7 @@ Coloca un brazo totalmente recto detrás de la espalda. Con la otra mano sujeta 
 
 4. Isometría del dorsal ancho (zona externa inferior)
 Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Coloca las manos entrelazadas detrás de la espalda un poco más abajo que la línea de la cintura. Mantén los brazos rectos o casi rectos y lleva ligeramente los codos hacia atrás. Desde esta posición intenta tirar de los brazos hacia adentro y hacia arriba mientras la zona externa e inferior del dorsal ancho se opone y evita cualquier movimiento. La contracción debe sentirse en el lateral bajo de la espalda, justo debajo de las costillas. Coloca las manos entrelazadas detrás de la espalda unos 10–15 cm más abajo que en el ejercicio anterior.
+Coloca las manos entrelazadas detrás de la espalda un poco más abajo que la línea de la cintura. Mantén los brazos rectos o casi rectos y lleva ligeramente los codos hacia atrás. Desde esta posición intenta tirar de los brazos hacia adentro y hacia arriba mientras la zona externa e inferior del dorsal ancho se opone y evita cualquier movimiento. La contracción debe sentirse en el lateral bajo de la espalda, justo debajo de las costillas. Coloca las manos entrelazadas detrás de la espalda unos 10, 15 cm más abajo que en el ejercicio anterior.
 
 5. Elevaciones de espalda y piernas (“barco dinámico”)
 Acuéstate boca abajo con las piernas estiradas y las manos detrás de la cabeza. Desde esta posición eleva simultáneamente el pecho, los codos y las piernas del suelo, creando una contracción fuerte en toda la espalda, glúteos y zona lumbar. No busques velocidad: el movimiento debe ser controlado, con una subida limpia y una bajada suave. Mantén la mirada hacia el suelo para no forzar el cuello. Realiza 10 repeticiones.
@@ -50,24 +50,50 @@ Colócate de pie con los pies al ancho de los hombros e inclínate ligeramente h
 Cierre: buen trabajo. Técnica primero, respira con control y mantén la consistencia.
 
 
-## RU — Подсказка
+**День 6: изометрия и контроль + core (пресс и средняя зона) (без оборудования)**
 
-День 6: изометрия и контроль + кор (пресс и центр тела) (без оборудования)
+Сегодня работаем над изометрией и контролем, core (пресс и зона корпуса), кардио и объёмом лёгких — с простыми упражнениями, которые помещаются в комнате. Цель — нарастить полезную силу, выносливость и контроль тела при минимуме оборудования.
+Ставь технику на первое место, дыши под контролем и копи стабильность: даже короткая сессия имеет смысл, если повторять её день за днём.
 
-Коротко: техника + контроль дыхания + регулярность. Тренировка без лишнего оборудования.
+**Перед началом:** сделай разминку (см. страницу/гайд) и повтори дыхание (см. страницу/гайд). (Не пропускай.)
+**Быстро про дыхание:** в изометрии используй 3–6–3 (3 — вход в напряжение, 6 — удержание на выдохе, 3 — выход). Подробности — в гайде «Дыхание».
 
-Перед началом: разминка + дыхание 3–6–3 (3 вход, 6 удержание с выдохом, 3 выход).
+1. **Частичные висы с опорой на носки**
+   Повисни на перекладине или на любой прочной опоре, которая точно не сломается. Не вывешивай весь вес: оставь часть веса на носках, чтобы растяжение было безопасным и контролируемым. Расслабь плечи и дай позвоночнику естественно вытянуться; по возможности слегка наклони таз вперёд, чтобы лучше разгрузить спину. Держи положение 10 секунд и повтори 10 раз.
 
-1. Colgamientos частичныйes apoyo las puntas los pies — 10 повторов
-2. Isometría “aplastar el coco” deltoides posterior — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-3. Isometría dorsal ancho (parte externa) — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-4. Isometría dorsal ancho (zona externa inferior) — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-5. Elevaciones espalda и piernas (“barco dinámico”) — 10 повторов
-6. Peso muerto isométrico “bloqueado” — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-7. Rotura tres puntos с полотенцем
-8. Прыжки в позиции Планка — 10 повторов, держи пресс напряжённым; пресс напряжён
-9. Подъём частичный пресса — 10 повторов
-10. Respiración diafragmática fuerza expulsión objeto
-11. Uddiyana Bandha Памп abdominal
+2. **Изометрия «раздавить кокос» для задней дельты**
+   Изометрический протокол. Напряжение 12 секунд. Отдыхай до восстановления дыхания. Повтори 10 раз. На каждую сторону, если применимо. Подробности — в гайде «Дыхание».
+   Сцепи руки за спиной чуть выше линии талии. Из этого положения попытайся «раздавить воображаемый кокос» между лопатками: слегка разведи локти в стороны и создай сильное напряжение в верхней части спины, фокусируясь на задней дельте и межлопаточной зоне. Спина не должна прогибаться назад; работа внутренняя — только мышечное напряжение.
 
-Финал: восстановись, вода/сон, и продолжай по плану.
+3. **Изометрия широчайшей (внешняя часть)**
+   Изометрический протокол. Напряжение 12 секунд. Отдыхай до восстановления дыхания. Повтори 10 раз. На каждую сторону, если применимо. Подробности — в гайде «Дыхание».
+   Полностью выпрями одну руку и заведи её за спину. Другой рукой крепко удерживай запястье или предплечье рабочей руки, создавая жёсткую точку фиксации. Из этого положения попробуй тянуть прямую руку к корпусу, а внешняя часть широчайшей должна «сопротивляться» и не давать руке приблизиться. Чуть меняй высоту рук, пока не почувствуешь чёткое сокращение по боковой поверхности спины.
+
+4. **Изометрия широчайшей (нижняя внешняя зона)**
+   Изометрический протокол. Напряжение 12 секунд. Отдыхай до восстановления дыхания. Повтори 10 раз. На каждую сторону, если применимо. Подробности — в гайде «Дыхание».
+   Сцепи руки за спиной чуть ниже линии талии. Руки прямые или почти прямые, локти слегка уводи назад. Из этого положения пытайся тянуть руки внутрь и вверх, а нижняя внешняя часть широчайшей сопротивляется и не допускает движения. Напряжение должно ощущаться в нижне-боковой части спины, прямо под рёбрами. Сцепи руки примерно на 10–15 см ниже, чем в предыдущем упражнении.
+
+5. **Подъёмы спины и ног («динамическая лодочка»)**
+   Ляг на живот, ноги выпрямлены, руки за головой. Одновременно подними от пола грудь, локти и ноги, создавая сильное напряжение во всей спине, ягодицах и пояснице. Не гони скорость: движение должно быть контролируемым — чистый подъём и мягкое опускание. Смотри в пол, чтобы не перегружать шею. Сделай 10 повторений.
+
+6. **Изометрическая «заблокированная» становая**
+   Изометрический протокол. Напряжение 12 секунд. Отдыхай до восстановления дыхания. Повтори 10 раз. На каждую сторону, если применимо. Подробности — в гайде «Дыхание».
+   Встань, ноги на ширине плеч, наклони корпус вперёд, удерживая спину жёсткой и прямой. Упрись руками в колени или верхнюю часть бёдер, создавая фиксацию, которая блокирует движение. Затем пытайся поднять корпус, как в настоящей становой тяге, но руки не дают телу подняться — так создаётся очень сильное напряжение в пояснице, ягодицах и всей задней цепи.
+
+7. **«Разрыв» полотенца в трёх точках**
+   Используй полотенце, пояс от кимоно или ленту, которая не тянется. Работаешь в трёх положениях: руки впереди на уровне груди, над головой и внизу перед бёдрами. В каждом положении пытайся «разорвать» полотенце, тянув в стороны с максимальной силой. Сразу переходи к следующей позиции. Три позиции подряд — это один цикл. Намотай материал на запястья, оставив между руками около 46 см. В каждой точке: 3 секунды вход в напряжение, 6 секунд максимум силы (как будто реально хочешь порвать полотенце) и 3 секунды выход. Сделай 10 циклов.
+
+8. **Прыжки из планки**
+   Начни в планке на прямых руках. Затем прыжком подтяни стопы вперёд под грудь и вторым прыжком вернись назад в планку. Держи пресс жёстким и не допускай провала таза. Сделай 10 повторений подряд в упругом, непрерывном ритме.
+
+9. **Частичный подъём на пресс**
+   Повтори упражнение на пресс. Сделай 10 медленных, контролируемых повторений.
+
+10. **Силовое диафрагмальное дыхание с «выбросом» предмета**
+    Встань или встань на колени, руки на талии — чтобы чувствовать напряжение живота. Глубоко вдохни, затем мощно выдохни, максимально включая диафрагму, межрёберные мышцы и весь живот. Возьми кусочек бумаги или лёгкой ткани и «выстрели» им вверх выдохом, стараясь поднять как можно выше. Цель — не просто сильный выдох, а ещё и удержать предмет в воздухе как можно дольше, контролируя выход воздуха и не теряя напряжение в животе.
+    Избегай гипервентиляции: если появляются «чёрные точки» перед глазами, звон в ушах или головокружение — сразу прекращай упражнение. Сделай 10 попыток с безопасным, контролируемым дыханием.
+
+11. **Уддияна-бандха с «помпингом» живота**
+    Встань, ноги на ширине плеч, слегка наклонись вперёд и упрись руками чуть выше коленей. Полностью выдохни до пустых лёгких и сделай задержку на пустых лёгких. На этой задержке подними диафрагму вверх и втягивай живот внутрь, создавая «вакуум» в животе. Затем расслабь живот и дай ему выйти наружу — всё ещё без вдоха. Каждая задержка считается за одно повторение. Повторяй цикл «втянуть — отпустить» столько раз, сколько сможешь, пока держишь задержку.
+
+**Закрытие:** хорошая работа. Сначала техника, дыхание под контролем и стабильность — каждый день.

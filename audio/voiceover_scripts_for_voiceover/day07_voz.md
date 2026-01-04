@@ -8,7 +8,7 @@ Hoy trabajamos piernas y glúteos, isometría y control, core (abdomen y zona me
 Prioriza la técnica, respira con control y acumula consistencia: incluso una sesión corta suma cuando la repites día tras día.
 
 Antes de empezar: haz el calentamiento (ver página/guía) y repasa la respiración (ver página/guía) . (No lo saltes.)
-Respiración rápida: en isometría usa 3-6-3 (3 entrar, 6 sostener exhalando, 3 salir). Detalles en la guía de Respiración.
+Respiración rápida: en isometría usa 3, 6, 3 (3 entrar, 6 sostener exhalando, 3 salir). Detalles en la guía de Respiración.
 
 0. Estiramiento rápido de pantorrilla en la pared
 Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
@@ -35,7 +35,7 @@ Parte desde una sentadilla profunda con las manos cerca del suelo. Desde la part
 6. Sentadillas profundas con triple pausa
 Seguridad en sentadillas: mantén los talones apoyados y el peso en el medio del pie. Las rodillas deben seguir la dirección de los dedos (sin colapsar hacia adentro). Si eres principiante o sientes molestias, evita que las rodillas se adelanten demasiado y piensa en “caderas atrás” para proteger la articulación.
 Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Coloca los pies un poco más anchos que los hombros, con las puntas ligeramente hacia afuera. Baja en sentadilla llevando la cadera hacia atrás y manteniendo el pecho abierto. Versión básica (dos pausas). Luego sube hasta la mitad de la amplitud (punto medio entre abajo y arriba) y quédate ahí otros 10 segundos . Solo después termina de subir. Este ciclo cuenta como una repetición. Realiza 10 repeticiones . Versión avanzada de Bronson (tres pausas). Desde la posición de pie baja primero hasta el nivel medio y congélate allí 5–10 segundos . A continuación vuelve a subir al nivel medio y quédate de nuevo 5–10 segundos . Solo entonces sube del todo, sin bloquear las rodillas por completo. Realiza 10 ciclos . Errores habituales que debes evitar: Este ejercicio es uno de los bloques más duros para piernas en todo el programa: las pausas en diferentes niveles obligan a trabajar a fondo a la musculatura del muslo, la cadera y el aparato ligamentoso de la rodilla.
+Coloca los pies un poco más anchos que los hombros, con las puntas ligeramente hacia afuera. Baja en sentadilla llevando la cadera hacia atrás y manteniendo el pecho abierto. Versión básica (dos pausas). Luego sube hasta la mitad de la amplitud (punto medio entre abajo y arriba) y quédate ahí otros 10 segundos . Solo después termina de subir. Este ciclo cuenta como una repetición. Realiza 10 repeticiones . Versión avanzada de Bronson (tres pausas). Desde la posición de pie baja primero hasta el nivel medio y congélate allí 5, 10 segundos . A continuación vuelve a subir al nivel medio y quédate de nuevo 5, 10 segundos . Solo entonces sube del todo, sin bloquear las rodillas por completo. Realiza 10 ciclos . Errores habituales que debes evitar: Este ejercicio es uno de los bloques más duros para piernas en todo el programa: las pausas en diferentes niveles obligan a trabajar a fondo a la musculatura del muslo, la cadera y el aparato ligamentoso de la rodilla.
 
 7. Zancadas con pausa isométrica (segunda ronda)
 Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
