@@ -1,99 +1,149 @@
-# day25
+Día veinticinco: isometría y control más empuje, pecho, hombros y tríceps, sin equipo.
 
-## ES — Guion de voz
+Hoy trabajamos isometría y control, empuje, pecho, hombros y tríceps con ejercicios simples que caben en una habitación. El objetivo es construir fuerza útil, resistencia y control corporal con el mínimo de equipo.
+Prioriza la técnica, respira con control y acumula consistencia. Incluso una sesión corta suma cuando la repites día tras día.
 
-Día 25: isometría y control + empuje (pecho, hombros y tríceps) (sin equipo)
+Antes de empezar: haz el calentamiento, ver página o guía, y repasa la respiración, ver página o guía. No lo saltes.
+Respiración rápida: en isometría usa tres, seis, tres. Tres para entrar, seis para sostener exhalando, tres para salir. Detalles en la guía de respiración.
 
-Hoy trabajamos isometría y control, empuje (pecho, hombros y tríceps) con ejercicios simples que caben en una habitación. El objetivo es construir fuerza útil, resistencia y control corporal con el mínimo de equipo.
-Prioriza la técnica, respira con control y acumula consistencia: incluso una sesión corta suma cuando la repites día tras día.
+Uno. Colgamiento parcial con apoyo en los pies.
+Agarra una barra o cualquier soporte sólido que no pueda romperse. No cuelgues todo tu peso como en una dominada. Deja parte del peso sobre los pies para mantener un estiramiento seguro y controlado. Relaja los hombros y permite que la columna se alargue de forma natural.
+Ejecución: mantén diez segundos y repite diez veces.
 
-Antes de empezar: haz el calentamiento (ver página/guía) y repasa la respiración (ver página/guía) . (No lo saltes.)
-Respiración rápida: en isometría usa 3-6-3 (3 entrar, 6 sostener exhalando, 3 salir). Detalles en la guía de Respiración.
+Dos. Isometría para dorsal ancho detrás de la espalda.
+De pie y firme. Con una mano agarra la muñeca o el antebrazo del brazo contrario, que queda recto detrás de la espalda. La mano de apoyo tira del brazo hacia abajo, y el dorsal ancho se contrae para impedir el movimiento. No hay movimiento visible. Torso estable y hombros abajo.
+Ejecución: mantén diez segundos y repite diez veces por cada lado.
 
-1. Colgamiento parcial con apoyo en los pies — 10×10 s
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Agarra una barra o cualquier soporte sólido que no pueda romperse. No cuelgues todo tu peso como en una dominada: deja parte del peso sobre los pies para mantener un estiramiento seguro y controlado. Relaja los hombros y permite que la columna se alargue de forma natural. Ejecución: Mantén 10 segundos y repite 10 veces .
+Tres. Encogimientos escapulares en la barra.
+Cuelga de la barra con control. Si hace falta, deja parte del peso en los pies. Alterna un colgado relajado con un movimiento corto de hombros hacia abajo, depresión escapular, sin doblar los codos y sin balancearte.
+Ejecución: dos series de diez repeticiones.
 
-2. Isometría para dorsal ancho detrás de la espalda — 10×10 s por lado
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 2: tracción del brazo hacia abajo con bloqueo firme, sin giro del cuerpo. Ejecución: 10 repeticiones por cada lado, manteniendo 10 segundos en cada repetición. Ejecución: Mantén la contracción 10 segundos y repite 10 veces por cada lado .
+Cuatro. Isometría para dorsal ancho detrás de la espalda.
+Misma técnica que en el ejercicio dos: la mano de apoyo tira hacia abajo y el dorsal ancho lo impide, sin movimiento.
+Ejecución: mantén diez segundos y repite doce veces por cada lado.
 
-3. Encogimientos escapulares en la barra — 2×10
-Cuelga de la barra con control (si hace falta, deja parte del peso en los pies). Alterna un colgado relajado con un movimiento corto de hombros hacia abajo (depresión escapular), sin doblar los codos y sin balancearte. Ejecución: 2 series de 10 repeticiones.
+Cinco. Encogimientos escapulares en la barra.
+Misma técnica que en el ejercicio tres: colgado controlado, brazos rectos, sin balanceos. Alterna relajación y hombros hacia abajo.
+Ejecución: dos series de doce repeticiones.
 
-4. Isometría para dorsal ancho detrás de la espalda — 12×10 s por lado
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 2: la mano de apoyo tira hacia abajo y el dorsal ancho lo impide, sin movimiento. Ejecución: 12 repeticiones por cada lado, manteniendo 10 segundos en cada repetición. Misma técnica que en el ejercicio 2: la mano de apoyo tira del brazo hacia abajo y el dorsal ancho se contrae para impedirlo, sin movimiento visible del brazo. Ejecución: 12 repeticiones por cada lado, manteniendo 10 segundos en cada repetición.
+Seis. Isometría para dorsal ancho detrás de la espalda.
+Misma técnica que en el ejercicio dos: tracción del brazo hacia abajo, torso estable y hombros sin elevarse hacia las orejas.
+Ejecución: mantén diez segundos y repite quince veces por cada lado.
 
-5. Encogimientos escapulares en la barra — 2×12
-Misma técnica que en el ejercicio 3: colgado controlado, brazos rectos, sin balanceos. Alterna relajación y hombros hacia abajo . Ejecución: 2 series de 12 repeticiones.
+Siete. Colgamiento parcial con apoyo en los pies.
+Misma técnica que en el ejercicio uno: apoyo en los pies para controlar la carga, hombros relajados y columna larga.
+Ejecución: dos series de quince repeticiones. En cada repetición mantén diez segundos.
 
-6. Isometría para dorsal ancho detrás de la espalda — 15×10 s por lado
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 2: tracción del brazo hacia abajo , torso estable, hombros abajo. Ejecución: 15 repeticiones por cada lado, manteniendo 10 segundos en cada repetición. Misma técnica que en el ejercicio 2: tracción del brazo hacia abajo con bloqueo firme, torso estable y hombros sin elevarse hacia las orejas. Ejecución: 15 repeticiones por cada lado, manteniendo 10 segundos en cada repetición.
+Ocho. Isometría para dorsal ancho detrás de la espalda.
+Misma técnica que en el ejercicio dos: la mano de apoyo tira hacia abajo, el dorsal ancho se contrae para impedir el movimiento, sin balanceos.
+Ejecución: mantén diez segundos y repite veinte veces por cada lado.
 
-7. Colgamiento parcial con apoyo en los pies — 2×15 (10 s)
-Misma técnica que en el ejercicio 1: apoyo en los pies para controlar la carga, hombros relajados y columna larga. Ejecución: 2 series de 15 repeticiones de 10 segundos. Misma técnica que en el ejercicio 1: apoyo en los pies para controlar la carga, hombros relajados y columna larga. Ejecución: 2 series de 15 repeticiones de 10 segundos.
+Nueve. Flexiones hasta el agotamiento.
+Colócate en posición de plancha con el cuerpo firme. Desciende con control y sube fuerte. Termina arriba sin bloquear completamente los codos.
+Ejecución: una serie al máximo, hasta el agotamiento.
 
-8. Isometría para dorsal ancho detrás de la espalda — 20×10 s por lado
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 2: la mano de apoyo tira hacia abajo , el dorsal ancho se contrae para impedir el movimiento, sin balanceos. Ejecución: 20 repeticiones por cada lado, manteniendo 10 segundos en cada repetición. Misma técnica que en el ejercicio 2: la mano de apoyo tira hacia abajo , el dorsal ancho se contrae para impedir el movimiento, sin balanceos. Ejecución: 20 repeticiones por cada lado, manteniendo 10 segundos en cada repetición.
+Diez. Isometría para dorsal ancho detrás de la espalda.
+Misma técnica que en el ejercicio dos: tracción del brazo hacia abajo con bloqueo firme, sin giro del cuerpo.
+Ejecución: mantén diez segundos y repite diez veces por cada lado.
 
-9. Flexiones — al fallo
-Termina arriba sin bloquear completamente los codos . Ejecución: 1 serie al máximo, hasta el agotamiento.
+Once. Hiperextensión isométrica en el suelo.
+Acuéstate boca abajo. Manos detrás de la cabeza, sin tirar del cuello. Piernas estiradas y activas. Eleva simultáneamente el pecho y las piernas, creando una contracción fuerte de la zona lumbar y los glúteos.
+Ejecución: mantén diez segundos y repite diez veces.
 
-10. Isometría para dorsal ancho detrás de la espalda — 10×10 s por lado
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 2: tracción del brazo hacia abajo con bloqueo firme, sin giro del cuerpo. Ejecución: 10 repeticiones por cada lado, manteniendo 10 segundos en cada repetición. Misma técnica que en el ejercicio 2: tracción del brazo hacia abajo con bloqueo firme, sin giro del cuerpo. Ejecución: 10 repeticiones por cada lado, manteniendo 10 segundos en cada repetición.
+Doce. Isometría para dorsal ancho detrás de la espalda.
+Misma técnica que en el ejercicio dos: la mano de apoyo tira hacia abajo y el dorsal ancho lo impide, sin movimiento.
+Ejecución: mantén diez segundos y repite doce veces por cada lado.
 
-11. Hiperextensión isométrica en el suelo — 10×10 s
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Acuéstate boca abajo. Manos detrás de la cabeza, sin tirar del cuello . Piernas estiradas y activas. Eleva simultáneamente el pecho y las piernas , creando una contracción fuerte de la zona lumbar y los glúteos. Ejecución: 10 repeticiones, manteniendo 10 segundos arriba en cada repetición.
+Trece. Hiperextensión isométrica en el suelo.
+Misma técnica que en el ejercicio once: eleva pecho y piernas con control, mantén la tensión sin rebotes y baja suave.
+Ejecución: dos series de doce repeticiones. En cada repetición mantén diez segundos arriba.
 
-12. Isometría para dorsal ancho detrás de la espalda — 12×10 s por lado
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 2: la mano de apoyo tira hacia abajo y el dorsal ancho lo impide, sin movimiento. Ejecución: 12 repeticiones por cada lado, manteniendo 10 segundos en cada repetición. Misma técnica que en el ejercicio 2: la mano de apoyo tira hacia abajo y el dorsal ancho lo impide, sin movimiento. Ejecución: 12 repeticiones por cada lado, manteniendo 10 segundos en cada repetición.
+Catorce. Isometría para dorsal ancho detrás de la espalda.
+Misma técnica que en el ejercicio dos: tracción del brazo hacia abajo, torso estable, hombros abajo.
+Ejecución: mantén diez segundos y repite quince veces por cada lado.
 
-13. Hiperextensión isométrica en el suelo — 2×12 (10 s)
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 11: eleva pecho y piernas con control, mantén la tensión sin rebotes y baja suave. Ejecución: 2 series de 12 repeticiones, manteniendo 10 segundos arriba en cada repetición. Misma técnica que en el ejercicio 11: eleva pecho y piernas con control, mantén la tensión sin rebotes y baja suave. Ejecución: 2 series de 12 repeticiones, manteniendo 10 segundos arriba en cada repetición.
+Quince. Hiperextensión en el suelo con pausa.
+Misma posición que en el ejercicio once, pero aquí haces una pausa arriba manteniendo la tensión, pecho y piernas elevados, antes de bajar con control.
+Ejecución: dos series de quince repeticiones. En cada repetición mantén diez segundos arriba.
 
-14. Isometría para dorsal ancho detrás de la espalda — 15×10 s por lado
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 2: tracción del brazo hacia abajo , torso estable, hombros abajo. Ejecución: 15 repeticiones por cada lado, manteniendo 10 segundos en cada repetición. Misma técnica que en el ejercicio 2: tracción del brazo hacia abajo , torso estable, hombros abajo. Ejecución: 15 repeticiones por cada lado, manteniendo 10 segundos en cada repetición.
-
-15. Hiperextensión en el suelo con pausa — 2×15 (10 s)
-Misma posición que en el ejercicio 11, pero aquí haces una pausa arriba manteniendo la tensión (pecho y piernas elevados) antes de bajar con control. Ejecución: 2 series de 15 repeticiones, con pausa arriba (estándar: 10 segundos ). Misma posición que en el ejercicio 11, pero aquí haces una pausa arriba manteniendo la tensión (pecho y piernas elevados) antes de bajar con control. Ejecución: 2 series de 15 repeticiones, con pausa arriba (estándar: 10 segundos ).
-
-16. Flexiones — al fallo
-Misma técnica que en el ejercicio 9: plancha firme, descenso controlado y subida potente. Termina arriba sin bloquear completamente los codos . Ejecución: 1 serie al máximo, hasta el agotamiento.
+Dieciséis. Flexiones hasta el agotamiento.
+Misma técnica que en el ejercicio nueve: plancha firme, descenso controlado y subida potente. Termina arriba sin bloquear completamente los codos.
+Ejecución: una serie al máximo, hasta el agotamiento.
 
 Cierre: buen trabajo. Técnica primero, respira con control y mantén la consistencia.
 
 
-## RU — Подсказка
 
-День 25: изометрия и контроль + жим (грудь, плечи и трицепс) (без оборудования)
+День двадцать пятый. Изометрия и контроль. Жим, грудь, плечи и трицепс. Без оборудования.
 
-Коротко: техника + контроль дыхания + регулярность. Тренировка без лишнего оборудования.
+Сегодня мы тренируем изометрию и контроль, а также жим, грудь, плечи и трицепс, с простыми упражнениями, которые помещаются в комнате. Цель — развивать полезную силу, выносливость и контроль тела с минимумом оборудования.
+Ставь технику на первое место, дыши спокойно и накапливай регулярность. Даже короткая тренировка даёт результат, если повторять её день за днём.
 
-Перед началом: разминка + дыхание 3–6–3 (3 вход, 6 удержание с выдохом, 3 выход).
+Перед началом сделай разминку, смотри страницу или руководство, и повтори дыхание, смотри страницу или руководство. Не пропускай.
+Быстрое дыхание для изометрии. Используй три, шесть, три. Вход за три секунды, удержание с выдохом шесть секунд, выход три секунды. Подробности в руководстве по дыханию.
 
-1. Colgamiento частичный apoyo los pies — 10×10 s — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-2. Isometría dorsal ancho detrás espalda — 10×10 s por lado — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-3. Encogimientos escapulares la barra — 2×10 — 10 повторов
-4. Isometría dorsal ancho detrás espalda — 12×10 s por lado — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-5. Encogimientos escapulares la barra — 2×12 — 12 повторов
-6. Isometría dorsal ancho detrás espalda — 15×10 s por lado — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-7. Colgamiento частичный apoyo los pies — 2×15 (10 s) — 15 повторов
-8. Isometría dorsal ancho detrás espalda — 20×10 s por lado — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-9. Отжимания — al fallo
-10. Isometría dorsal ancho detrás espalda — 10×10 s por lado — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-11. Hiperextensión isométrica el suelo — 10×10 s — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-12. Isometría dorsal ancho detrás espalda — 12×10 s por lado — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-13. Hiperextensión isométrica el suelo — 2×12 (10 s) — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-14. Isometría dorsal ancho detrás espalda — 15×10 s por lado — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-15. Hiperextensión el suelo с паузой — 2×15 (10 s) — 15 повторов
-16. Отжимания — al fallo
+Первое. Частичный вис с опорой на ноги.
+Возьмись за перекладину или за любую прочную опору. Не виси всем весом, оставь часть веса на ногах, чтобы растяжение было безопасным и контролируемым. Расслабь плечи и дай позвоночнику мягко вытянуться.
+Выполнение. Держи десять секунд и повтори десять раз.
 
-Финал: восстановись, вода/сон, и продолжай по плану.
+Второе. Изометрия широчайшей мышцы за спиной.
+Встань ровно, корпус стабилен. Уведи одну прямую руку за спину. Другой рукой возьмись за запястье или предплечье и тяни вниз, как будто хочешь опустить руку. Одновременно напряги широчайшую мышцу, чтобы движение не происходило. Не разворачивай корпус и не поднимай плечи к ушам.
+Выполнение. Держи десять секунд и повтори десять раз на каждую сторону.
+
+Третье. Подтягивания лопаток на перекладине.
+Повисни под контролем. Если нужно, оставь часть веса на ногах. Руки прямые. Не сгибая локти, опусти плечи вниз, как будто отдаляешь плечи от ушей. Затем вернись в более расслабленный вис. Без раскачки.
+Выполнение. Два подхода по десять повторений.
+
+Четвёртое. Изометрия широчайшей мышцы за спиной.
+Та же техника, что во втором упражнении.
+Выполнение. Держи десять секунд и повтори двенадцать раз на каждую сторону.
+
+Пятое. Подтягивания лопаток на перекладине.
+Та же техника, что в третьем упражнении.
+Выполнение. Два подхода по двенадцать повторений.
+
+Шестое. Изометрия широчайшей мышцы за спиной.
+Та же техника, что во втором упражнении.
+Выполнение. Держи десять секунд и повтори пятнадцать раз на каждую сторону.
+
+Седьмое. Частичный вис с опорой на ноги.
+Та же техника, что в первом упражнении.
+Выполнение. Два подхода по пятнадцать повторений, удерживая десять секунд в каждом повторении.
+
+Восьмое. Изометрия широчайшей мышцы за спиной.
+Та же техника, что во втором упражнении.
+Выполнение. Держи десять секунд и повтори двадцать раз на каждую сторону.
+
+Девятое. Отжимания.
+Встань в планку. Ладони на ширине плеч. Тело в одной линии. Пресс и ягодицы напряжены. Опускайся подконтрольно, ведя локти назад и не разводя их широко. Поднимайся сильным выжимом. Вверху не выпрямляй локти полностью.
+Выполнение. Один подход до отказа, до утомления, сохраняя технику.
+
+Десятое. Изометрия широчайшей мышцы за спиной.
+Та же техника, что во втором упражнении.
+Выполнение. Держи десять секунд и повтори десять раз на каждую сторону.
+
+Одиннадцатое. Изометрическая гиперэкстензия на полу.
+Ляг на живот. Руки за головой, шею не тяни. Ноги прямые и активные. Подними одновременно грудь и ноги, создавая сильное напряжение в пояснице и ягодицах. Опускайся плавно.
+Выполнение. Держи вверху десять секунд и повтори десять раз.
+
+Двенадцатое. Изометрия широчайшей мышцы за спиной.
+Та же техника, что во втором упражнении.
+Выполнение. Держи десять секунд и повтори двенадцать раз на каждую сторону.
+
+Тринадцатое. Изометрическая гиперэкстензия на полу.
+Та же техника, что в одиннадцатом упражнении.
+Выполнение. Два подхода по двенадцать повторений, удерживая десять секунд вверху в каждом повторении.
+
+Четырнадцатое. Изометрия широчайшей мышцы за спиной.
+Та же техника, что во втором упражнении.
+Выполнение. Держи десять секунд и повтори пятнадцать раз на каждую сторону.
+
+Пятнадцатое. Гиперэкстензия на полу с паузой.
+Та же позиция, что в одиннадцатом упражнении. Поднимайся подконтрольно. Удерживай напряжение вверху, грудь и ноги приподняты. Затем опускайся плавно.
+Выполнение. Два подхода по пятнадцать повторений, удерживая десять секунд вверху в каждом повторении.
+
+Шестнадцатое. Отжимания.
+Та же техника, что в девятом упражнении.
+Выполнение. Один подход до отказа, до утомления, сохраняя технику.
+
+Финиш. Отличная работа. Сначала техника, затем сила. Дыши с контролем и держи регулярность.

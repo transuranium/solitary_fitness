@@ -1,81 +1,141 @@
-# day26
-
-## ES — Guion de voz
-
-Día 26: isometría y control + cuello y postura (sin equipo)
+Día 26. Isometría y control, cuello y postura. Sin equipo.
 
 Hoy trabajamos isometría y control, cuello y postura con ejercicios simples que caben en una habitación. El objetivo es construir fuerza útil, resistencia y control corporal con el mínimo de equipo.
-Prioriza la técnica, respira con control y acumula consistencia: incluso una sesión corta suma cuando la repites día tras día.
+Prioriza la técnica, respira con control y acumula consistencia. Incluso una sesión corta suma cuando la repites día tras día.
 
-Antes de empezar: haz el calentamiento (ver página/guía) y repasa la respiración (ver página/guía) . (No lo saltes.)
-Respiración rápida: en isometría usa 3-6-3 (3 entrar, 6 sostener exhalando, 3 salir). Detalles en la guía de Respiración.
+Antes de empezar, haz el calentamiento. Mira la guía. Y repasa la respiración. Mira la guía. No lo saltes.
+Respiración rápida: en isometría usa tres, seis, tres. Tres segundos para entrar. Seis segundos para sostener exhalando. Tres segundos para salir. Detalles en la guía de respiración.
 
-1. “Tirón de almohada” bajo la barbilla — 1×10 (10 s)
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Coloca una almohada bajo la barbilla. Inclina la cabeza hacia delante para atraparla entre la barbilla y el pecho. Con las manos tira suavemente de la almohada “como si quisieras sacarla”, pero resiste apretándola más fuerte al presionar hacia abajo con la barbilla . Ejecución: 1 serie de 10 repeticiones.
+Uno. Tirón de almohada bajo la barbilla. Una serie de diez repeticiones.
+Coloca una almohada bajo la barbilla. Inclina la cabeza hacia delante para atraparla entre la barbilla y el pecho.
+Con las manos tira suavemente de la almohada, como si quisieras sacarla, pero resiste apretándola más fuerte presionando hacia abajo con la barbilla.
+En cada repetición mantén diez segundos. Descansa hasta recuperar la respiración.
 
-2. Trasvase de agua con la boca — 2 litros
-Necesitas dos recipientes . Llena uno con agua fresca y fría (hoy: 2 litros ) y añade un par de cucharadas de sal . Coloca ambos recipientes uno al lado del otro. Toma un buen trago (sin tragar), mueve la cabeza hacia el recipiente vacío y escupe con fuerza . Importante: no dejes que el agua se escurra sin control; debe salir como un chorro .
+Dos. Trasvase de agua con la boca. Dos litros.
+Necesitas dos recipientes. Llena uno con agua fresca y fría, dos litros. Añade dos cucharadas de sal.
+Coloca ambos recipientes uno al lado del otro.
+Toma un buen trago, sin tragar. Mueve la cabeza hacia el recipiente vacío y escupe con fuerza.
+Importante: no dejes que el agua se escurra sin control. Debe salir como un chorro.
 
-3. Extensión + “mandíbula” y barbilla al pecho — 1×10
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Arrodíllate y siéntate sobre los pies. Reclina el torso hacia atrás y apoya las manos en los talones (si tienes la espalda rígida, ve solo hasta donde sea cómodo). Parte A (mandíbula): en la posición de extensión, abre y cierra la boca lo más amplio posible con control, sin tirones . Con el tiempo puedes aumentar el número de repeticiones . Parte B (barbilla al pecho): desde esa misma posición, lleva la barbilla al pecho y luego vuelve a la extensión. Ejecución: 1 serie de 10 repeticiones.
+Tres. Extensión, mandíbula, y barbilla al pecho. Una serie de diez repeticiones.
+Arrodíllate y siéntate sobre los pies.
+Reclina el torso hacia atrás y apoya las manos en los talones. Si tu espalda está rígida, ve solo hasta donde sea cómodo.
+Parte A. Mandíbula. En la posición de extensión, abre y cierra la boca lo más amplio posible con control, sin tirones.
+Parte B. Barbilla al pecho. Desde esa misma posición, lleva la barbilla al pecho y luego vuelve a la extensión.
 
-4. Isometría de cuello con mano en la frente — 1×10 (10 s)
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 4. Ejecución: 1 serie de 10 repeticiones.
+Cuatro. Isometría de cuello con mano en la frente. Una serie de diez repeticiones.
+De pie, espalda recta.
+Coloca una mano en la frente.
+Intenta llevar la cabeza hacia delante, mientras la mano bloquea por completo el movimiento.
+No debe haber movimiento visible. Mantén diez segundos en cada repetición. Respira tranquilo.
 
-5. Círculos pequeños con almohada en la cabeza — 10 + 10
-Busca un punto sólido donde puedas presionar hacia arriba con una almohada sobre la cabeza (por ejemplo, bajo el marco de una puerta). Aplica solo la presión justa para mantener la almohada en su sitio. Mantén la cabeza quieta y mueve el cuerpo (desde el cuello hacia abajo) en círculos muy pequeños . Ejecución: 10 círculos en sentido horario + 10 en sentido antihorario.
+Cinco. Círculos pequeños con almohada en la cabeza.
+Busca un punto sólido donde puedas presionar hacia arriba con una almohada sobre la cabeza, por ejemplo bajo el marco de una puerta.
+Aplica solo la presión justa para mantener la almohada en su sitio.
+Mantén la cabeza quieta y mueve el cuerpo, desde el cuello hacia abajo, en círculos muy pequeños.
+Haz diez círculos en sentido horario y diez círculos en sentido antihorario.
 
-6. “Tirón de almohada” bajo la barbilla — 1×15 (10 s)
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 1: sujeta la almohada entre la barbilla y el pecho, tira con las manos “como si quisieras sacarla” y resiste presionando con la barbilla. Ejecución: 1 serie de 15 repeticiones. Misma técnica que en el ejercicio 1: sujeta la almohada entre la barbilla y el pecho, tira con las manos “como si quisieras sacarla” y resiste presionando con la barbilla. Ejecución: 1 serie de 15 repeticiones.
+Seis. Tirón de almohada bajo la barbilla. Una serie de quince repeticiones.
+Misma técnica del ejercicio uno.
+En cada repetición mantén diez segundos. Descansa hasta recuperar la respiración.
 
-7. Trasvase de agua con la boca — 3 litros
-Igual que el ejercicio 2, pero hoy el volumen total es de 3 litros . Agua fresca y fría con un par de cucharadas de sal . Escupe con fuerza: no dejes que el agua se escurra .
+Siete. Trasvase de agua con la boca. Tres litros.
+Misma técnica del ejercicio dos, pero hoy el volumen total es de tres litros.
+Agua fresca y fría con dos cucharadas de sal.
+Escupe con fuerza. No dejes que el agua se escurra.
 
-8. Extensión + “mandíbula” y barbilla al pecho — 2×10
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 3. En extensión: abre y cierra la boca con control, sin tirones . Luego barbilla al pecho y vuelve, manteniendo 10 segundos en cada repetición. Ejecución: 2 series de 10 repeticiones.
+Ocho. Extensión, mandíbula, y barbilla al pecho. Dos series de diez repeticiones.
+Misma técnica del ejercicio tres.
+Trabaja con control, sin tirones.
+En cada repetición mantén la tensión diez segundos y respira tranquilo.
 
-9. Isometría de cuello con mano en la frente — 2×10 (10 s)
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 4: mano en la frente, empuja con la cabeza hasta el punto de máxima resistencia y mantén 10 segundos . Espalda recta y respira (no aguantes el aire). Ejecución: 2 series de 10 repeticiones.
+Nueve. Isometría de cuello con mano en la frente. Dos series de diez repeticiones.
+Misma técnica del ejercicio cuatro.
+Mantén diez segundos en cada repetición. Espalda recta. Respira. No aguantes el aire.
 
-10. Círculos pequeños con almohada en la cabeza — 5 + 5
-Misma técnica que en el ejercicio 5: presión ligera para fijar la almohada, cabeza quieta y círculos muy pequeños con el cuerpo. Ejecución: 5 círculos en sentido horario + 5 en sentido antihorario. Misma técnica que en el ejercicio 5: presión ligera para fijar la almohada, cabeza quieta y círculos muy pequeños con el cuerpo. Ejecución: 5 círculos en sentido horario + 5 en sentido antihorario.
+Diez. Círculos pequeños con almohada en la cabeza.
+Misma técnica del ejercicio cinco.
+Haz cinco círculos en sentido horario y cinco círculos en sentido antihorario.
 
-11. Isometría de cuello con mano en la frente — 1×10 (10 s)
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 4. Ejecución: 1 serie de 10 repeticiones. Misma técnica que en el ejercicio 4. Ejecución: 1 serie de 10 repeticiones.
+Once. Isometría de cuello con mano en la frente. Una serie de diez repeticiones.
+Misma técnica del ejercicio cuatro.
+Mantén diez segundos en cada repetición. Respira tranquilo.
 
-12. Extensión + barbilla al pecho — 1×10
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Misma técnica que en el ejercicio 3: en extensión, movimiento con control, sin tirones . Barbilla al pecho y vuelve, manteniendo 10 segundos en cada repetición. Ejecución: 1 serie de 10 repeticiones. Misma técnica que en el ejercicio 3: en extensión, movimiento con control, sin tirones . Barbilla al pecho y vuelve, manteniendo 10 segundos en cada repetición. Ejecución: 1 serie de 10 repeticiones.
+Doce. Extensión y barbilla al pecho. Una serie de diez repeticiones.
+Misma técnica del ejercicio tres.
+Muévete con control, sin tirones.
+En cada repetición mantén diez segundos.
 
-Cierre: buen trabajo. Técnica primero, respira con control y mantén la consistencia.
+Cierre. Buen trabajo. Técnica primero, respira con control y mantén la consistencia.
 
 
-## RU — Подсказка
 
-День 26: изометрия и контроль + cuello и postura (без оборудования)
+День двадцать шестой. Изометрия и контроль, шея и осанка. Без оборудования.
 
-Коротко: техника + контроль дыхания + регулярность. Тренировка без лишнего оборудования.
+Сегодня мы работаем над изометрией и контролем, шеей и осанкой. Упражнения простые и помещаются в комнате. Цель — развивать полезную силу, выносливость и контроль тела с минимумом оборудования.
+Главное — техника, спокойное дыхание и регулярность. Даже короткая тренировка работает, если ты повторяешь её каждый день.
 
-Перед началом: разминка + дыхание 3–6–3 (3 вход, 6 удержание с выдохом, 3 выход).
+Перед началом сделай разминку. Посмотри в гайде. И повтори дыхание. Посмотри в гайде. Не пропускай.
+Быстрое дыхание для изометрии: три, шесть, три. Три секунды вход. Шесть секунд удержание на выдохе. Три секунды выход. Подробности в гайде по дыханию.
 
-1. “Tirón almohada” bajo la barbilla — 1×10 (10 s) — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-2. Trasvase agua la boca — 2 litros
-3. Extensión + “mandíbula” и barbilla al pecho — 1×10 — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-4. Isometría cuello mano la frente — 1×10 (10 s) — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-5. Círculos pequeños almohada la cabeza — 10 + 10
-6. “Tirón almohada” bajo la barbilla — 1×15 (10 s) — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-7. Trasvase agua la boca — 3 litros
-8. Extensión + “mandíbula” и barbilla al pecho — 2×10 — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-9. Isometría cuello mano la frente — 2×10 (10 s) — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно), спина ровная
-10. Círculos pequeños almohada la cabeza — 5 + 5
-11. Isometría cuello mano la frente — 1×10 (10 s) — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-12. Extensión + barbilla al pecho — 1×10 — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
+Первое. Подтягивание подушки под подбородком. Один подход, десять повторений.
+Положи подушку под подбородок. Слегка наклони голову вперёд, чтобы зажать подушку между подбородком и грудью.
+Руками мягко тяни подушку, как будто хочешь вытащить, а подбородком дави вниз и не давай ей выйти.
+В каждом повторении держи десять секунд. Отдыхай, пока дыхание не восстановится.
 
-Финал: восстановись, вода/сон, и продолжай по плану.
+Второе. Переливание воды ртом. Два литра.
+Нужны две ёмкости. Налей в одну холодную свежую воду, два литра. Добавь две столовые ложки соли.
+Поставь обе ёмкости рядом.
+Сделай большой глоток, но не глотай. Поверни голову к пустой ёмкости и выплюнь воду с силой.
+Важно: вода не должна просто стекать. Она должна выходить струёй.
+
+Третье. Разгибание, работа челюстью, и подбородок к груди. Один подход, десять повторений.
+Встань на колени и сядь на пятки.
+Отклони корпус назад и возьмись руками за пятки. Если спина жёсткая, уходи назад только до комфортного уровня.
+Часть А. Челюсть. В положении разгибания открывай и закрывай рот максимально широко, но подконтрольно, без рывков.
+Часть Б. Подбородок к груди. Из этого же положения опусти подбородок к груди и затем вернись в разгибание.
+
+Четвёртое. Изометрия шеи с рукой на лбу. Один подход, десять повторений.
+Встань ровно, спина прямая.
+Положи ладонь на лоб.
+Пытайся наклонить голову вперёд, а рукой полностью блокируй движение.
+Видимого движения быть не должно. В каждом повторении держи десять секунд. Дыши спокойно.
+
+Пятое. Маленькие круги с подушкой на голове.
+Найди прочную точку, куда можно упираться подушкой вверх головой, например под дверной косяк.
+Дави совсем слегка, только чтобы подушка держалась.
+Голова неподвижна. Двигай телом, начиная от шеи вниз, очень маленькими кругами.
+Сделай десять кругов по часовой стрелке и десять кругов против часовой стрелки.
+
+Шестое. Подтягивание подушки под подбородком. Один подход, пятнадцать повторений.
+Техника как в первом упражнении.
+В каждом повторении держи десять секунд. Отдыхай, пока дыхание не восстановится.
+
+Седьмое. Переливание воды ртом. Три литра.
+Техника как во втором упражнении, но сегодня общий объём три литра.
+Холодная свежая вода и две столовые ложки соли.
+Выплёвывай с силой. Не давай воде просто стекать.
+
+Восьмое. Разгибание, работа челюстью, и подбородок к груди. Два подхода, десять повторений.
+Техника как в третьем упражнении.
+Двигайся подконтрольно, без рывков.
+В каждом повторении держи напряжение десять секунд и дыши спокойно.
+
+Девятое. Изометрия шеи с рукой на лбу. Два подхода, десять повторений.
+Техника как в четвёртом упражнении.
+В каждом повторении держи десять секунд. Спина прямая. Дыши. Не задерживай воздух.
+
+Десятое. Маленькие круги с подушкой на голове.
+Техника как в пятом упражнении.
+Сделай пять кругов по часовой стрелке и пять кругов против часовой стрелки.
+
+Одиннадцатое. Изометрия шеи с рукой на лбу. Один подход, десять повторений.
+Техника как в четвёртом упражнении.
+В каждом повторении держи десять секунд. Дыши спокойно.
+
+Двенадцатое. Разгибание и подбородок к груди. Один подход, десять повторений.
+Техника как в третьем упражнении.
+Двигайся подконтрольно, без рывков.
+В каждом повторении держи десять секунд.
+
+Завершение. Хорошая работа. Сначала техника, потом сила. Дыши под контролем и держи регулярность.

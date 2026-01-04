@@ -1,88 +1,157 @@
-# day22
+Día veintidós. Empuje, pecho, hombros y tríceps. Más isometría y control. Sin equipo.
 
-## ES — Guion de voz
+Hoy trabajamos empuje, pecho, hombros y tríceps, isometría y control, agarre y antebrazos, con ejercicios simples que caben en una habitación. El objetivo es construir fuerza útil, resistencia y control corporal con el mínimo de equipo.
+Prioriza la técnica, respira con control y acumula consistencia. Incluso una sesión corta suma cuando la repites día tras día.
 
-Día 22: empuje (pecho, hombros y tríceps) + isometría y control (sin equipo)
+Antes de empezar, haz el calentamiento, ver página o guía, y repasa la respiración, ver página o guía. No lo saltes.
+Respiración rápida. En isometría usa tres, seis, tres. Tres para entrar, seis para sostener exhalando, tres para salir. Detalles en la guía de respiración.
 
-Hoy trabajamos empuje (pecho, hombros y tríceps), isometría y control, agarre y antebrazos con ejercicios simples que caben en una habitación. El objetivo es construir fuerza útil, resistencia y control corporal con el mínimo de equipo.
-Prioriza la técnica, respira con control y acumula consistencia: incluso una sesión corta suma cuando la repites día tras día.
+Uno. Flexiones. Cuatro series de diez repeticiones.
+Colócate en posición de plancha. Manos a la anchura de los hombros. Cuerpo en línea recta. Abdomen firme.
+Desciende de forma controlada llevando los codos hacia atrás, sin abrirlos demasiado. Baja el pecho hacia el suelo y sube empujando fuerte.
+Arriba, termina sin bloquear completamente los codos.
 
-Antes de empezar: haz el calentamiento (ver página/guía) y repasa la respiración (ver página/guía) . (No lo saltes.)
-Respiración rápida: en isometría usa 3-6-3 (3 entrar, 6 sostener exhalando, 3 salir). Detalles en la guía de Respiración.
+Dos. Fondos en banco. Cuatro series de diez repeticiones.
+Apoya las manos en el borde de un banco o una silla, detrás de ti. Pecho abierto y hombros abajo.
+Desciende flexionando los codos hacia atrás hasta una profundidad cómoda. Luego sube empujando de forma controlada.
+Arriba, no bloquees completamente los codos.
+Mantén el cuerpo estable y el movimiento limpio.
 
-1. Flexiones — 4×10
-Colócate en posición de plancha: manos a la anchura de los hombros, cuerpo en línea recta y abdomen firme. Desciende de forma controlada llevando los codos hacia atrás (sin abrirlos demasiado). Baja el pecho hacia el suelo y sube empujando fuerte, terminando arriba sin bloquear completamente los codos . Ejecución: 4 series de 10 repeticiones.
+Tres. Flexiones. Tres series de diez repeticiones.
+Misma técnica. Cuerpo en línea recta. Codos hacia atrás. Baja con control y sube fuerte.
+Arriba, termina sin bloquear completamente los codos.
 
-2. Fondos en banco — 4×10
-Apoya las manos en el borde de un banco/silla detrás de ti, con el pecho abierto y los hombros abajo. Desciende flexionando los codos hacia atrás hasta una profundidad cómoda, y luego sube empujando de forma controlada sin bloquear completamente los codos . Mantén el cuerpo estable y el movimiento limpio. Ejecución: 4 series de 10 repeticiones.
+Cuatro. Fondos en banco. Tres series de diez repeticiones.
+Misma técnica. Hombros abajo. Codos hacia atrás. Rango cómodo.
+Sube con control sin bloquear completamente los codos.
 
-3. Flexiones — 3×10
-Misma técnica que en el ejercicio 1: cuerpo en línea recta, codos hacia atrás, baja con control y sube fuerte. Termina arriba sin bloquear completamente los codos . Ejecución: 3 series de 10 repeticiones.
+Cinco. Flexiones. Dos series de diez repeticiones.
+Repite las flexiones con la misma técnica. Plancha firme. Descenso controlado. Subida potente.
+Arriba, termina sin bloquear completamente los codos.
 
-4. Fondos en banco — 3×10
-Misma técnica que en el ejercicio 2: hombros abajo, codos hacia atrás, rango cómodo y subida controlada sin bloquear completamente los codos . Ejecución: 3 series de 10 repeticiones. Misma técnica que en el ejercicio 2: hombros abajo, codos hacia atrás, rango cómodo y subida controlada sin bloquear completamente los codos . Ejecución: 3 series de 10 repeticiones.
+Seis. Fondos en banco. Dos series de diez repeticiones.
+Repite los fondos con control, sin balanceo del cuerpo.
+Mantén los hombros abajo y sube sin bloquear completamente los codos.
 
-5. Flexiones — 2×10
-Repite las flexiones con la misma técnica: plancha firme, descenso controlado y subida potente. Termina arriba sin bloquear completamente los codos . Ejecución: 2 series de 10 repeticiones.
+Siete. Flexiones. Una serie de diez repeticiones.
+Colócate en plancha con el cuerpo firme. Baja con control y sube fuerte.
+Arriba, termina sin bloquear completamente los codos.
 
-6. Fondos en banco — 2×10
-Repite los fondos con control, sin balanceo del cuerpo. Mantén los hombros abajo y sube sin bloquear completamente los codos . Ejecución: 2 series de 10 repeticiones.
+Ocho. Fondos en banco. Una serie de diez repeticiones.
+Una serie más de fondos, controlando el rango.
+Sube sin bloquear completamente los codos y mantén la postura estable.
 
-7. Flexiones — 1×10
-Colócate en plancha con el cuerpo firme. Baja con control y sube fuerte. Termina arriba sin bloquear completamente los codos . Ejecución: 1 serie de 10 repeticiones.
+Nueve. Supinación isométrica de bíceps. Tres series de diez repeticiones por cada brazo. Diez segundos por repetición.
+De pie y firme. Flexiona el brazo como en una pose de bíceps y gira la muñeca hacia afuera, en supinación, para buscar la máxima contracción.
+Mantén el hombro abajo y el codo controlado, sin encoger el cuello.
+En cada repetición, aprieta el bíceps con fuerza durante diez segundos, sin balancear el cuerpo.
+Puedes variar un poco el ángulo del brazo para encontrar la mejor contracción.
 
-8. Fondos en banco — 1×10
-Una serie más de fondos, controlando el rango. Sube sin bloquear completamente los codos y mantén la postura estable. Ejecución: 1 serie de 10 repeticiones.
+Diez. Bíceps con toalla o cinturón. Dos series de diez repeticiones. Diez segundos por repetición.
+Sujeta una toalla o un cinturón que no se estire. Coloca el agarre para que puedas crear resistencia y una contracción fuerte de bíceps.
+Mantén los codos pegados al cuerpo y los hombros abajo.
+En cada repetición, aprieta diez segundos, suelta y vuelve a tensar.
 
-9. Supinación isométrica de bíceps — 3×10 por brazo (10 s)
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-De pie y firme. Flexiona el brazo como en una pose de bíceps y gira la muñeca hacia afuera (supinación) para buscar la máxima contracción. Mantén el hombro abajo y el codo controlado (sin encoger el cuello). En cada repetición, aprieta el bíceps con fuerza durante 10 segundos , sin balancear el cuerpo. Puedes variar un poco el ángulo del brazo para encontrar la mejor contracción. Ejecución: 3 series de 10 repeticiones por cada brazo (10 s por repetición).
+Once. Supinación isométrica de bíceps. Dos series de diez repeticiones por cada brazo. Diez segundos por repetición.
+Repite la supinación con la misma técnica. Busca la máxima contracción. Hombro abajo. Sin balanceo.
+Aprieta diez segundos en cada repetición.
 
-10. Bíceps con toalla/cinturón — 2×10 (10 s)
-Repite el ejercicio 10 con la misma técnica: codos pegados al cuerpo, hombros abajo, contracción máxima. En cada repetición aprieta 10 segundos . Ejecución: 2 series de 10 repeticiones (10 s por repetición). En cada repetición aprieta 10 segundos , suelta y vuelve a tensar. Ejecución: 2 series de 10 repeticiones (10 s por repetición).
+Doce. Bíceps con toalla o cinturón. Dos series de diez repeticiones. Diez segundos por repetición.
+Repite el ejercicio de bíceps con toalla o cinturón con la misma técnica.
+Codos pegados al cuerpo. Hombros abajo. Contracción máxima.
+Aprieta diez segundos en cada repetición.
 
-11. Supinación isométrica de bíceps — 2×10 por brazo (10 s)
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Repite el ejercicio 9 con la misma técnica: supinación para máxima contracción, hombro abajo, sin balanceo. Aprieta 10 segundos en cada repetición. Ejecución: 2 series de 10 repeticiones por cada brazo (10 s por repetición). Repite el ejercicio 9 con la misma técnica: supinación para máxima contracción, hombro abajo, sin balanceo. Aprieta 10 segundos en cada repetición. Ejecución: 2 series de 10 repeticiones por cada brazo (10 s por repetición).
+Trece. Supinación isométrica de bíceps. Una serie de diez repeticiones por cada brazo. Diez segundos por repetición.
+Una última serie. Busca máxima contracción y mantén diez segundos en cada repetición.
 
-12. Bíceps con toalla/cinturón — 2×10 (10 s)
-Repite el ejercicio 10 con la misma técnica: codos pegados al cuerpo, hombros abajo, contracción máxima. En cada repetición aprieta 10 segundos . Ejecución: 2 series de 10 repeticiones (10 s por repetición). Repite el ejercicio 10 con la misma técnica: codos pegados al cuerpo, hombros abajo, contracción máxima. En cada repetición aprieta 10 segundos . Ejecución: 2 series de 10 repeticiones (10 s por repetición).
+Catorce. Bíceps con toalla o cinturón. Una serie de diez repeticiones. Diez segundos por repetición.
+Una última serie. Mantén la postura estable y aprieta diez segundos en cada repetición.
 
-13. Supinación isométrica de bíceps — 1×10 por brazo (10 s)
-Protocolo isométrico. Tensión de 12 segundos. Descansa hasta recuperar la respiración. Repite 10 veces. Por lado, si aplica. Más detalles en la guía de Respiración.
-Una última serie del ejercicio de supinación: busca máxima contracción y mantén 10 segundos en cada repetición. Ejecución: 1 serie de 10 repeticiones por cada brazo (10 s por repetición). Una última serie del ejercicio de supinación: busca máxima contracción y mantén 10 segundos en cada repetición. Ejecución: 1 serie de 10 repeticiones por cada brazo (10 s por repetición).
+Quince. Flexiones. Una serie al máximo.
+Colócate en plancha y realiza flexiones con técnica limpia.
+Codos hacia atrás. Cuerpo firme.
+Sube sin bloquear completamente los codos.
+Haz todas las repeticiones que puedas manteniendo la técnica.
 
-14. Bíceps con toalla/cinturón — 1×10 (10 s)
-Una última serie del bíceps con toalla/cinturón. Mantén la postura estable y aprieta 10 segundos en cada repetición. Ejecución: 1 serie de 10 repeticiones (10 s por repetición).
-
-15. Flexiones — 1 serie al máximo
-Colócate en posición de plancha y realiza flexiones con técnica limpia: codos hacia atrás, cuerpo firme, sube sin bloquear completamente los codos . Ejecución: 1 serie al máximo (todas las repeticiones que puedas manteniendo la técnica).
-
-Cierre: buen trabajo. Técnica primero, respira con control y mantén la consistencia.
+Cierre. Buen trabajo. Técnica primero, respira con control y mantén la consistencia.
 
 
-## RU — Подсказка
+День двадцать второй. Жим, грудь, плечи и трицепс. Плюс изометрия и контроль. Без оборудования.
 
-День 22: жим (грудь, плечи и трицепс) + изометрия и контроль (без оборудования)
+Сегодня работаем над жимом, грудью, плечами и трицепсом, изометрией и контролем, хватом и предплечьями. Все упражнения простые и помещаются в комнате. Цель — развивать полезную силу, выносливость и контроль тела с минимальным оборудованием.
+Ставь технику на первое место, дыши под контролем и копи регулярность. Даже короткая тренировка важна, если повторять её каждый день.
 
-Коротко: техника + контроль дыхания + регулярность. Тренировка без лишнего оборудования.
+Перед началом сделай разминку, смотри страницу или гайд, и повтори дыхание, смотри страницу или гайд. Не пропускай.
+Быстрое дыхание. В изометрии используй три, шесть, три. Три на вход, шесть удерживай на выдохе, три на выход. Подробности в гайде по дыханию.
 
-Перед началом: разминка + дыхание 3–6–3 (3 вход, 6 удержание с выдохом, 3 выход).
+1. Отжимания. Четыре подхода по десять повторений.
+   Встань в планку. Ладони на ширине плеч. Тело в одной линии. Пресс в тонусе.
+   Опускайся подконтрольно, уводя локти назад, не разводи их широко.
+   Опусти грудь к полу и поднимайся сильным толчком.
+   Вверху не выпрямляй локти полностью.
 
-1. Отжимания — 4×10 — 10 повторов, пресс напряжён
-2. Отжимания на трицепс banco — 4×10 — 10 повторов, грудь раскрыта
-3. Отжимания — 3×10 — 10 повторов, опускайся под контролем
-4. Отжимания на трицепс banco — 3×10 — 10 повторов
-5. Отжимания — 2×10 — 10 повторов
-6. Отжимания на трицепс banco — 2×10 — 10 повторов
-7. Отжимания — 1×10 — 10 повторов, опускайся под контролем
-8. Отжимания на трицепс banco — 1×10 — 10 повторов
-9. Supinación isométrica bíceps — 3×10 por brazo (10 s) — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-10. Bíceps с полотенцем/cinturón — 2×10 (10 s) — 10 повторов
-11. Supinación isométrica bíceps — 2×10 por brazo (10 s) — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-12. Bíceps с полотенцем/cinturón — 2×10 (10 s) — 10 повторов
-13. Supinación isométrica bíceps — 1×10 por brazo (10 s) — изометрия: 12 сек напряжение, отдых до восстановления дыхания, 10 повторов (на сторону, если нужно)
-14. Bíceps с полотенцем/cinturón — 1×10 (10 s) — 10 повторов
-15. Отжимания — 1 serie al máximo
+2. Отжимания от скамьи на трицепс. Четыре подхода по десять повторений.
+   Поставь ладони на край скамьи или стула позади себя. Грудь раскрыта, плечи опущены.
+   Опускайся, сгибая локти назад, до комфортной глубины.
+   Поднимайся подконтрольно.
+   Вверху не выпрямляй локти полностью.
+   Держи корпус стабильным, движение чистым.
 
-Финал: восстановись, вода/сон, и продолжай по плану.
+3. Отжимания. Три подхода по десять повторений.
+   Та же техника. Тело в одной линии. Локти назад.
+   Опускайся под контролем и поднимайся мощно.
+   Вверху не выпрямляй локти полностью.
+
+4. Отжимания от скамьи на трицепс. Три подхода по десять повторений.
+   Та же техника. Плечи вниз. Локти назад. Амплитуда комфортная.
+   Поднимайся подконтрольно, не выпрямляя локти полностью.
+
+5. Отжимания. Два подхода по десять повторений.
+   Повтори отжимания с той же техникой. Планка жёсткая. Вниз под контролем, вверх мощно.
+   Вверху не выпрямляй локти полностью.
+
+6. Отжимания от скамьи на трицепс. Два подхода по десять повторений.
+   Повтори с контролем, без раскачки.
+   Плечи вниз. Поднимайся, не выпрямляя локти полностью.
+
+7. Отжимания. Один подход десять повторений.
+   Встань в планку, корпус жёсткий. Вниз под контролем, вверх мощно.
+   Вверху не выпрямляй локти полностью.
+
+8. Отжимания от скамьи на трицепс. Один подход десять повторений.
+   Ещё один подход, контролируй амплитуду.
+   Поднимайся, не выпрямляя локти полностью, держи позу стабильной.
+
+9. Изометрия бицепса с супинацией. Три подхода по десять повторений на каждую руку. Десять секунд на повторение.
+   Встань устойчиво. Согни руку, как в позе на бицепс, и разверни кисть наружу, в супинацию, чтобы поймать максимальное сокращение.
+   Плечо держи опущенным. Локоть контролируй. Шею не зажимай.
+   В каждом повторении напрягай бицепс на десять секунд, без раскачки.
+   Можно чуть менять угол руки, чтобы найти лучшее напряжение.
+
+10. Бицепс с полотенцем или ремнём. Два подхода по десять повторений. Десять секунд на повторение.
+    Возьми полотенце или ремень, который не тянется. Настрой хват так, чтобы создать сопротивление и сильное напряжение бицепса.
+    Локти прижми к корпусу. Плечи опусти.
+    В каждом повторении напрягайся десять секунд, отпусти и снова напрягись.
+
+11. Изометрия бицепса с супинацией. Два подхода по десять повторений на каждую руку. Десять секунд на повторение.
+    Повтори супинацию по той же технике. Максимальная контракция, плечо вниз, без раскачки.
+    Держи напряжение десять секунд в каждом повторении.
+
+12. Бицепс с полотенцем или ремнём. Два подхода по десять повторений. Десять секунд на повторение.
+    Повтори упражнение с полотенцем или ремнём с той же техникой.
+    Локти прижаты. Плечи вниз. Контракция максимальная.
+    Держи напряжение десять секунд в каждом повторении.
+
+13. Изометрия бицепса с супинацией. Один подход десять повторений на каждую руку. Десять секунд на повторение.
+    Последний подход. Максимальная контракция. Десять секунд в каждом повторении.
+
+14. Бицепс с полотенцем или ремнём. Один подход десять повторений. Десять секунд на повторение.
+    Последний подход. Поза стабильная. Напрягайся десять секунд в каждом повторении.
+
+15. Отжимания. Один подход до отказа.
+    Встань в планку и делай отжимания с чистой техникой.
+    Локти назад. Корпус жёсткий.
+    Поднимайся, не выпрямляя локти полностью.
+    Сделай столько повторений, сколько сможешь, сохраняя технику.
+
+Финал. Хорошая работа. Сначала техника, дыши под контролем и держи регулярность.
