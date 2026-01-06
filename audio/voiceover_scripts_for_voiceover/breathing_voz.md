@@ -2,23 +2,35 @@
 
 ## ES — Guion de voz
 
-Respiración — Ciclo 3, 6, 3
+Respiración. Ciclo tres, seis, tres.
 
 Hoy te explico la respiración que usamos en los ejercicios, sobre todo en isometría.
-Se llama ciclo 3, 6, 3 y tiene tres fases: entrar en tensión, sostener exhalando, y salir.
+Se llama “ciclo tres, seis, tres”. Y tiene tres fases: entrar en tensión, sostener mientras exhalas, y salir.
 
-Fase 1: entrada en la tensión — 3 segundos.
-Inhala por la nariz, profundo pero breve. Durante estos 3 segundos incrementa la tensión de las zonas objetivo, sin tirones ni bloqueos de aire. Al final ya estás casi en tu máximo de forma controlada.
+Fase uno. Entrada en la tensión. Tres segundos.
+Inhala por la nariz. Profundo, pero breve.
+Durante estos tres segundos, aumenta la tensión en las zonas objetivo.
+Sin tirones. Sin bloquear el aire.
+Al final de la fase uno, ya estás cerca de tu máximo, de forma controlada.
 
-Fase 2: pico de tensión + exhalación fuerte — 6 segundos.
-Mantén la tensión máxima segura en la postura. Empieza a exhalar lentamente por los labios firmemente apretados.
-Durante 3 segundos (nivel básico) o hasta 6 segundos (nivel avanzado), sostén el esfuerzo sin perder forma, sin temblores excesivos y manteniendo la cara y el cuello relativamente relajados.
+Fase dos. Pico de tensión y exhalación fuerte. Seis segundos.
+Mantén una tensión máxima, pero segura, en la postura.
+Empieza a exhalar lentamente por la boca, con los labios firmemente apretados.
+Sostén el esfuerzo sin perder la forma.
+Nivel básico: tres segundos.
+Nivel avanzado: hasta seis segundos.
+Evita temblores excesivos. Mantén la cara y el cuello relativamente relajados.
 
-Fase 3: salida de la tensión — 3 segundos.
-Al terminar la exhalación, libera la tensión de forma progresiva durante 3 segundos. No sueltes la postura de golpe: sal suave o pasa a una variante más ligera según el ejercicio.
+Fase tres. Salida de la tensión. Tres segundos.
+Cuando termines la exhalación, libera la tensión de forma progresiva durante tres segundos.
+No sueltes la postura de golpe.
+Sal suave, o pasa a una variante más ligera, según el ejercicio.
 
-Eso es todo. 3-6-3: entrar, sostener exhalando, y salir.
-Practícalo. Si sientes mareo o dolor, baja la intensidad y respira normal.
+Eso es todo.
+Tres, seis, tres: entrar, sostener exhalando, y salir.
+Practícalo.
+Si sientes mareo o dolor, baja la intensidad y vuelve a una respiración normal.
+
 
 
 ## RU — Перевод
