@@ -1,55 +1,60 @@
 # breathing
 
 ## ES — Guion de voz
+Озвучка: 
 
-Respiración. Ciclo tres, seis, tres.
+Ciclo de respiración tres seis tres.
+Este ciclo se usa en los ejercicios, sobre todo en isometría.
+Tiene tres fases.
 
-Hoy te explico la respiración que usamos en los ejercicios, sobre todo en isometría.
-Se llama “ciclo tres, seis, tres”. Y tiene tres fases: entrar en tensión, sostener mientras exhalas, y salir.
+Primera fase, entrada en la tensión, dura tres segundos.
+Inhala por la nariz de forma profunda pero breve.
+Durante estos tres segundos incrementa la tensión en las zonas objetivo.
+Hazlo sin tirones.
+No bloquees el aire.
+Al final de esta fase ya estás casi en tu máximo, pero de forma controlada.
 
-Fase uno. Entrada en la tensión. Tres segundos.
-Inhala por la nariz. Profundo, pero breve.
-Durante estos tres segundos, aumenta la tensión en las zonas objetivo.
-Sin tirones. Sin bloquear el aire.
-Al final de la fase uno, ya estás cerca de tu máximo, de forma controlada.
+Segunda fase, pico de tensión con exhalación, dura seis segundos.
+Mantén la tensión máxima segura en la postura.
+Empieza a exhalar lentamente con los labios bien cerrados.
+Como si soplaras a través de un tubo estrecho.
+En nivel básico exhalas durante tres segundos.
+En nivel avanzado puedes alargar la exhalación hasta seis segundos.
+Durante este tiempo sostén el esfuerzo sin perder la forma.
+Evita temblores excesivos.
+Mantén la cara y el cuello relativamente relajados.
 
-Fase dos. Pico de tensión y exhalación fuerte. Seis segundos.
-Mantén una tensión máxima, pero segura, en la postura.
-Empieza a exhalar lentamente por la boca, con los labios firmemente apretados.
-Sostén el esfuerzo sin perder la forma.
-Nivel básico: tres segundos.
-Nivel avanzado: hasta seis segundos.
-Evita temblores excesivos. Mantén la cara y el cuello relativamente relajados.
-
-Fase tres. Salida de la tensión. Tres segundos.
+Tercera fase, salida de la tensión, dura tres segundos.
 Cuando termines la exhalación, libera la tensión de forma progresiva durante tres segundos.
 No sueltes la postura de golpe.
-Sal suave, o pasa a una variante más ligera, según el ejercicio.
+Abandónala suavemente.
+O pasa a una variante más ligera según el ejercicio.
 
-Eso es todo.
-Tres, seis, tres: entrar, sostener exhalando, y salir.
-Practícalo.
-Si sientes mareo o dolor, baja la intensidad y vuelve a una respiración normal.
+Текст на русском для озвучки
 
+Цикл дыхания три шесть три.
+Этот цикл мы используем в упражнениях, особенно в изометрии.
+Он состоит из трёх фаз.
 
+Первая фаза, вход в напряжение, длится три секунды.
+Вдохни через нос глубоко, но коротко.
+В эти три секунды увеличивай напряжение в нужных мышцах.
+Без рывков.
+Не задерживай воздух.
+К концу этой фазы ты почти на максимуме, но всё под контролем.
 
-## RU — Перевод
+Вторая фаза, пик напряжения с выдохом, длится шесть секунд.
+Удерживай максимально безопасное напряжение в позе.
+Начни медленно выдыхать, плотно сомкнув губы.
+Как будто дуешь через узкую трубочку.
+На базовом уровне выдох длится три секунды.
+На продвинутом уровне выдох можно продлить до шести секунд.
+В это время удерживай усилие и не теряй форму.
+Избегай чрезмерной дрожи.
+Лицо и шею держи относительно расслабленными.
 
-Дыхание — цикл 3–6–3
-
-Сейчас объясню дыхание, которое мы используем в упражнениях, особенно в изометрии.
-Это цикл 3–6–3: он помогает безопасно набирать напряжение, удерживать контроль и выходить без «обвала» формы.
-
-Фаза 1: вход в напряжение — 3 секунды.
-Вдох через нос — глубокий, но короткий. За эти 3 секунды постепенно увеличивай напряжение в нужных мышцах: без рывков и без «запирания» воздуха. К концу фазы ты почти на максимуме, но всё под контролем.
-
-Фаза 2: пик напряжения + сильный выдох — 6 секунд.
-Сохраняй максимально безопасное напряжение в позе. Начни медленно выдыхать через плотно сжатые губы.
-На базовом уровне выдох 3 секунды, на продвинутом — до 6 секунд.
-Удерживай форму без развала, без чрезмерной дрожи, а лицо и шею держи максимально расслабленными.
-
-Фаза 3: выход из напряжения — 3 секунды.
-Когда выдох закончился — отпускай напряжение постепенно, за 3 секунды. Не бросай позу резко: выходи мягко или переходи на более лёгкий вариант упражнения.
-
-Вот и всё. 3–6–3: вход, удержание с выдохом, выход.
-Если чувствуешь головокружение или боль — снизь интенсивность и дыши обычно.
+Третья фаза, выход из напряжения, длится три секунды.
+Когда выдох закончился, отпускай напряжение постепенно в течение трёх секунд.
+Не бросай позу резко.
+Выходи мягко.
+Или переходи на более лёгкий вариант, в зависимости от упражнения.
